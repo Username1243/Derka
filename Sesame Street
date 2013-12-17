@@ -248,12 +248,40 @@
                         "command": "copy",
                         "common": "Self",
                         "silentCopy": true,
-                        "copyAs": {
-                            "watcher2": [
-                                "testvillager2"
-                            ],
-"watcher3": ["testvillager3"]
-                        },
+                        "copyAs": { "bertA": ["elmoA", "ernieA", "groverA", "rositaA", "abbyA", "cookieA", "big birdA", "big bird1A", "zoeA", "dorothyA", "big bird2A", "big bird3A", "big bird4A", "big bird5A", "big bird6A", "big bird7A"], 
+"bertB": ["elmoB", "ernieB", "groverB", "rositaB", "cookieB", "big birdB", "big bird1B", "zoeB", "dorothyB", "grouch1B", "grouch2B", "countB", "big bird2B", "big bird3B", "big bird4B", "big bird5B", "big bird6B", "big bird7B"],
+"bertC": ["elmoC", "ernieC", "groverC", "rositaC", "cookieC", "big birdC", "big bird1C", "zoeC", "dorothyC", "abbyC", "big bird2C", "big bird3C", "big bird4C", "big bird5C", "big bird6C", "big bird7C"],
+"bertD": [ "ernieD", "groverD", "rositaD", "cookieD", "big birdD", "big bird1D", "zoeD", "countD", "abbyD", "grouch1D", "grouch2D", "big bird2D", "big bird3D", "big bird4D", "big bird5D", "big bird6D", "big bird7D"],
+"bertE": ["elmoE", "ernieE", "groverE", "rositaE", "cookieE", "big birdE", "big bird1E", "zoeE", "dorothyE", "abbyE", "big bird2E", "big bird3E", "big bird4E", "big bird5E", "big bird6E", "big bird7E" ],
+"bertF": ["elmoF", "groverF", "rositaF", "cookieF", "big birdF", "big bird1F", "zoeF", "countF", "abbyF", "grouch1F", "grouch2F", "dorothyF", "big bird2F", "big bird3F", "big bird4F", "big bird5F", "big bird6F", "big bird7F"],
+"bertAB": ["elmoAB", "groverAB", "rositaAB", "cookieAB", "zoeAB", "dorothyAB", "ernieAB" ],
+"bertAC": ["elmoAB", "groverAC", "rositaAC", "cookieAC", "zoeAC", "dorothyAC", "ernieAC", "abbyAC", "big bird3AB", "big bird4AB", "big bird5AB", "big bird6AB", "big bird7AB"],
+"bertAD": ["groverAD", "rositaAD", "cookieAD", "zoeAD", "abbyAD", "ernieAD", "big birdAD", "big bird3AD", "big bird4AD", "big bird5AD", "big bird6AD", "big bird7AD"],
+"bertAF": ["groverAF", "rositaAF", "cookieAF", "zoeAF", "abbyAF", "dorothyAF", "elmoAF", "elmoAF", "big bird3AF", "big bird4AF", "big bird5AF", "big bird6AF", "big bird7AF"],
+"bertBC": ["elmoBC", "rositaBC", "cookieBC", "zoeBC", "dorothyBC", "ernieBC", "groverBC", "big bird3BC", "big bird4BC", "big bird5BC", "big bird6BC", "big bird7BC" ],
+"bertBD": ["cookieBD", "ernieBD", "groverBD", "rositaBD", "zoeBD", "countBD", "grouch1BD", "grouch2BD", "big bird3BD", "big bird4BD", "big bird5BD", "big bird6BD", "big bird7BD"],
+"bertBE": ["cookieBE", "ernieBE", "groverBE", "rositaBE", "zoeBE", "elmoE", "dorothyBE", "big bird1BE", "big bird2BE", "big bird3BE", "big bird4BE", "big bird5BE", "big bird6BE", "big bird7BE", "big birdBE"],
+"bertBF": ["cookieBF", "big birdBF", "big bird1BF", "big bird2BF", "big bird3BF", "big bird4BF", "big bird5BF", "big bird6BF", "big bird7BF", "groverBF", "rositaBF",  "zoeBF", "elmoBF", "dorothyBF", "countBF", "grouch1BF", "grouch2BF" ],
+"bertCD": ["cookieCD", "ernieCD", "groverCD", "rositaCD", "abbyCD", "zoeCD", "big birdCD", "big bird1CD", "big bird2CD", "big bird3CD", "big bird4CD", "big bird5CD", "big bird6CD", "big bird7CD"],
+"bertCF": ["big birdCF", "big bird1CF", "big bird2CF", "big bird3CF", "big bird4CF", "big bird5CF", "big bird6CF", "big bird7CF","cookieCF", "groverCF", "rositaCF", "abbyCF", "zoeCF", "elmoCF", "dorothyCF"],
+"bertDE": ["cookieDE", "big birdDE", "big bird1DE", "big bird2DE", "big bird3DE", "big bird4DE", "big bird5DE", "big bird6DE", "big bird7DE", "ernieDE", "groverDE", "rositaDE", "abbyDE", "zoeDE"],
+"bertDF": ["cookieDF", "groverDF", "rositaDF", "abbyDF", "zoeDF", "countDF", "grouch1DF", "grouch2DF", "big birdDF", "big bird1DF", "big bird2DF", "big bird3DF", "big bird4DF", "big bird5DF", "big bird6DF", "big bird7DF"],
+"bertEF": ["cookieEF", "big birdEF", "big bird1EF", "big bird2EF", "big bird3EF", "big bird4EF", "big bird5EF", "big bird6EF", "big bird7EF",  "groverEF", "rositaEF", "abbyEF", "zoeEF", "elmoEF", "dorothyEF"],
+"bertABC": ["big birdABC", "big bird1ABC", "big bird2ABC", "big bird3ABC", "big bird4ABC", "big bird5ABC", "big bird6ABC", "big bird7ABC","cookieABC", "ernieABC", "groverABC", "rositaABC", "zoeABC", "elmoABC", "dorothyABC"],
+"bertABD": ["cookieABD", "ernieABD", "groverABD", "rositaABD", "zoeABD", "big bird1ABD", "big bird2ABD", "big bird3ABD", "big bird4ABD", "big bird5ABD", "big bird6ABD", "big bird7ABD", "big birdABD"],
+"bertABF": ["cookieABF", "groverABF", "rositaABF", "zoeABF", "elmoABF", "dorothyABF", "big bird1ABF", "big bird2ABF", "big bird3ABF", "big bird4ABF", "big bird5ABF", "big bird6ABF", "big bird7ABF", "big birdABF"],
+"bertBCD": ["cookieBCD", "ernieBCD", "groverBCD", "rositaBCD", "zoeBCD", "big bird1BCD", "big bird2BCD", "big bird3BCD", "big bird4BCD", "big bird5BCD", "big bird6BCD", "big bird7BCD", "big birdBCD"],
+"bertBCF": ["cookieBCF", "groverBCF", "rositaBCF", "zoeBCF", "elmoBCF", "dorothyBCF", "big bird1BCF", "big bird2BCF", "big bird3BCF", "big bird4BCF", "big bird5BCF", "big bird6BCF", "big bird7BCF", "big birdBCF"],
+"bertBDE": ["big bird1BDE", "big bird2BDE", "big bird3BDE", "big bird4BDE", "big bird5BDE", "big bird6BDE", "big bird7BDE", "big birdBDE", "cookieBDE", "groverBDE", "rositaBDE", "zoeBDE", "ernieBDE"],
+"bertBDF": ["cookieBDF", "groverBDF", "rositaBDF", "zoeBDF", "countBDF", "grouch1BDF", "grouch2BDF", "big bird1BDE", "big bird2BDE", "big bird3BDE", "big bird4BDE", "big bird5BDE", "big bird6BDE", "big bird7BDE", "big birdBDE"],
+"bertBEF": ["big bird1BEF", "big bird2BEF", "big bird3BEF", "big bird4BEF", "big bird5BEF", "big bird6BEF", "big bird7BEF", "big birdBEF", "cookieBEF", "groverBEF", "rositaBEF", "zoeBEF", "elmoBEF", "dorothyBEF"],
+"bertCDF": ["cookieCDF", "abbyCDF", "groverCDF", "rositaCDF", "zoeCDF", "big bird1CDF", "big bird2CDF", "big bird3CDF", "big bird4CDF", "big bird5CDF", "big bird6CDF", "big bird7CDF", "big birdCDF"],
+"bertDEF": [ "cookieDEF", "groverDEF", "rositaDEF", "big bird1DEF", "big bird2DEF", "big bird3DEF", "big bird4DEF", "big bird5DEF", "big bird6DEF", "big bird7DEF", "big birdDEF", "zoeDEF"],
+"bertABCD": ["cookieABCD", "groverABCD", "rositaABCD", "zoeABCD", "ernieABCD"],
+"bertABCF": ["cookieABCF", "groverABCF", "rositaABCF", "zoeABCF", "elmoABCF", "dorothyABCF", "big bird1ABCD", "big bird2ABCD", "big bird3ABCD", "big bird4ABCD", "big bird5ABCD", "big bird6ABCD", "big bird7ABCD", "big birdABCD"],
+"bertBCDF": ["cookieBCDF", "groverBCDF", "rositaBCDF", "zoeBCDF", "big bird1BCDF", "big bird2BCDF", "big bird3BCDF", "big bird4BCDF", "big bird5BCDF", "big bird6BCDF", "big bird7BCDF", "big birdBCDF"],
+"bertBDEF": ["cookieBDEF", "groverBDEF", "rositaBDEF", "zoeBDEF", "big bird1BDEF", "big bird2BDEF", "big bird3BDEF", "big bird4BDEF", "big bird5BDEF", "big bird6BDEF", "big bird7BDEF", "big birdBDEF"],
+"bertABCDF": ["cookieABCDF", "groverABCDF", "rositaABCDF", "zoeABCDF", "big bird1ABCDF", "big bird2ABCDF", "big bird3ABCDF", "big bird4ABCDF", "big bird5ABCDF", "big bird6ABCDF", "big bird7ABCDF", "big birdABCDF"]},
                         "priority": 7,
                         "target": "AnyButSelf"
                     }
@@ -4125,7 +4153,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "count",  "countB", "countD", "countF",    "countBD",  "countBF",  "countDF",  "countBDF" 
+                        "abby", "abbyA", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "count",  "countB", "countD", "countF",    "countBD",  "countBF",  "countDF",  "countBDF" 
                                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4240,7 +4268,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "count", "ernie", "countD", "ernieD", "ernieE", "ernieDE"
+                        "count", "ernie", "countD", "ernieD", "ernieE", "ernieDE", "ernieB", "countBD"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4373,7 +4401,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "grouch1", "abby", "ernie",  "grouch1D",  "abbyC", "abbyD", "abbyE", "abbyCD", "abbyDE", "ernieC", "ernieD", "ernieE", "ernieCD", "ernieDE", "ernieCDE"
+                        "grouch1", "abby", "ernie",  "grouch1D",  "abbyC", "abbyD", "abbyE", "abbyCD", "abbyDE", "ernieC", "ernieD", "ernieE", "ernieCD", "ernieDE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4524,6 +4552,28 @@
                 }
             }
         },
+		{
+"role": "bertBDEF",
+            "translation": "Bert",
+            "hide": true,
+            "help": "You have observed your target this night!",
+            "side": "village",
+            "actions": {
+                "startup": {
+                    "revealPlayers": [
+                        "abby", "elmo", "grouch2", "ernie"
+                    ],
+                    "revealPlayersMsg": " ~Players~ visited your target!"
+                },
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "bert",
+                        "silentCurse": true
+                    }
+                }
+            }
+        },
 
                 {
             "role": "bertBDF",
@@ -4556,7 +4606,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "abby", "grouch2", "ernie", "abbyA", "abbyC",  "ernieA", "ernieC", "abbyD", "Grouch2D", "ernieD"
+                        "abby", "grouch2", "ernie", "abbyA", "abbyC",  "ernieA", "ernieC", "abbyD", "grouch2D", "ernieD"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4671,7 +4721,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "grouch1", "count", "elmo", "ernie", "grouch1B", "countB", "elmoB", "ernieB","elmoE", "ernieE", "elmo", "BE", "ernieBE"
+                        "grouch1", "count", "elmo", "ernie", "grouch1B", "countB", "elmoB", "ernieB","elmoE", "ernieE", "elmoBE", "ernieBE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
