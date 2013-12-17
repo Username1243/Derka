@@ -1,7 +1,7 @@
 
 {
     "name": "ss",
-    "altName": "Sesame Street",
+    "altname": "Sesame Street",
     "killmsg": "±Jerry Nelson: SSPD found the battered remains of ~Target~, {~Role~} scattered across Sesame Street!",
 "lynchmsg": "±Jerry Nelson: 'Dear ~Target~, you have been found guilty of being  ~Role~, and you are now sentenced to death by Electric Chair!'",
 "drawmsg": "±Jerry Nelson: Sesame Street became vacant. A veritable ghost town. A shell of it's former glory. May the remains of the inhabitants rest in peace.",
@@ -43,10 +43,10 @@
 "zoeF": ["zoe"], "zoeAF": ["zoeA"], "zoeBF": ["zoeB"], "zoeCF": ["zoeC"], "zoeDF": ["zoeD"], "zoeEF": ["zoeE"], "zoeABF": ["zoeAB"], "zoeACF": ["zoeAC"], "zoeADF": ["zoeAD"], "zoeBCF": ["zoeBC"], "zoeBDF": ["zoeBD"], "zoeBEF": ["zoeBE"], "zoeCDF": ["zoeCD"], "zoeDEF": ["zoeDE"], "zoeABCF": ["zoeABC"], "zoeABDF": ["zoeABD"], "zoeACDF": ["zoeACD"], "zoeBCDF": ["zoeBCD"], "zoeBDEF": ["zoeBDE"], "zoeABCDF": ["zoeABCD"],
 "cookieF": ["cookie"], "cookieAF": ["cookieA"], "cookieBF": ["cookieB"], "cookieCF": ["cookieC"], "cookieDF": ["cookieD"], "cookieEF": ["cookieE"], "cookieABF": ["cookieAB"], "cookieACF": ["cookieAC"], "cookieADF": ["cookieAD"], "cookieBCF": ["cookieBC"], "cookieBDF": ["cookieBD"], "cookieBEF": ["cookieBE"], "cookieCDF": ["cookieCD"], "cookieDEF": ["cookieDE"], "cookieABCF": ["cookieABC"], "cookieABDF": ["cookieABD"], "cookieACDF": ["cookieACD"], "cookieBCDF": ["cookieBCD"], "cookieBDEF": ["cookieBDE"], "cookieABCDF": ["cookieABCD"],
 "grouch1F": ["grouch1"],  "grouch1BF": ["grouch1B"], "grouch1DF": ["grouch1D"], "grouch1BDF": ["grouch1BD"],  
-"grouch2F": ["grouch2"], "grouch2BF": ["grouch2B"],  "grouch2DF": ["grouch2D"], "grouch2EF": ["grouch2E"], "grouch2BDF": ["grouch2BD"], "grouch2BEF": ["grouch2BE"], "grouch2DEF": ["grouch2DE"], "grouch2BDEF": ["grouch2BDE"], 
-"countF": ["count"], "countAF": ["countA"], "countBF": ["countB"], "countCF": ["countC"], "countDF": ["countD"], "countEF": ["countE"], "countABF": ["countAB"], "countACF": ["countAC"], "countADF": ["countAD"], "countBCF": ["countBC"], "countBDF": ["countBD"], "countBEF": ["countBE"], "countCDF": ["countCD"], "countDEF": ["countDE"], "countABCF": ["countABC"], "countABDF": ["countABD"], "countACDF": ["countACD"], "countBCDF": ["countBCD"], "countBDEF": ["countBDE"], "countABCDF": ["countABCD"],
-"elmoF": ["elmo"], "elmoAF": ["elmoA"], "elmoBF": ["elmoB"], "elmoCF": ["elmoC"], "elmoDF": ["elmoD"], "elmoEF": ["elmoE"], "elmoABF": ["elmoAB"], "elmoACF": ["elmoAC"], "elmoADF": ["elmoAD"], "elmoBCF": ["elmoBC"], "elmoBDF": ["elmoBD"], "elmoBEF": ["elmoBE"], "elmoCDF": ["elmoCD"], "elmoDEF": ["elmoDE"], "elmoABCF": ["elmoABC"], "elmoABDF": ["elmoABD"], "elmoACDF": ["elmoACD"], "elmoBCDF": ["elmoBCD"], "elmoBDEF": ["elmoBDE"], "elmoABCDF": ["elmoABCD"],
-"dorothyF": ["dorothy"], "dorothyAF": ["dorothyA"], "dorothyBF": ["dorothyB"], "dorothyCF": ["dorothyC"], "dorothyDF": ["dorothyD"], "dorothyEF": ["dorothyE"], "dorothyABF": ["dorothyAB"], "dorothyACF": ["dorothyAC"], "dorothyADF": ["dorothyAD"], "dorothyBCF": ["dorothyBC"], "dorothyBDF": ["dorothyBD"], "dorothyBEF": ["dorothyBE"], "dorothyCDF": ["dorothyCD"], "dorothyDEF": ["dorothyDE"], "dorothyABCF": ["dorothyABC"], "dorothyABDF": ["dorothyABD"], "dorothyACDF": ["dorothyACD"], "dorothyBCDF": ["dorothyBCD"], "dorothyBDEF": ["dorothyBDE"], "dorothyABCDF": ["dorothyABCD"],
+"grouch2F": ["grouch2"], "grouch2BF": ["grouch2B"],  "grouch2DF": ["grouch2D"],  "grouch2BDF": ["grouch2BD"],
+"countF": ["count"], "countBF": ["countB"], "countCF": ["countC"], "countDF": ["countD"], "countBCF": ["countBC"], "countBDF": ["countBD"], "countCDF": ["countCD"], "countBCDF": ["countBCD"],  
+"elmoF": ["elmo"], "elmoAF": ["elmoA"], "elmoBF": ["elmoB"], "elmoCF": ["elmoC"], "elmoEF": ["elmoE"], "elmoABF": ["elmoAB"], "elmoACF": ["elmoAC"],  "elmoBCF": ["elmoBC"], "elmoBEF": ["elmoBE"],  "elmoABCF": ["elmoABC"], 
+"dorothyF": ["dorothy"], "dorothyAF": ["dorothyA"], "dorothyBF": ["dorothyB"], "dorothyCF": ["dorothyC"], "dorothyEF": ["dorothyE"], "dorothyABF": ["dorothyAB"], "dorothyACF": ["dorothyAC"], "dorothyBCF": ["dorothyBC"], "dorothyABCF": ["dorothyABC"], 
 "big birdF": ["big bird"], "big birdAF": ["big birdA"], "big birdBF": ["big birdB"], "big birdCF": ["big birdC"], "big birdDF": ["big birdD"], "big birdEF": ["big birdE"], "big birdABF": ["big birdAB"], "big birdACF": ["big birdAC"], "big birdADF": ["big birdAD"], "big birdBCF": ["big birdBC"], "big birdBDF": ["big birdBD"], "big birdBEF": ["big birdBE"], "big birdCDF": ["big birdCD"], "big birdDEF": ["big birdDE"], "big birdABCF": ["big birdABC"], "big birdABDF": ["big birdABD"], "big birdACDF": ["big birdACD"], "big birdBCDF": ["big birdBCD"], "big birdBDEF": ["big birdBDE"], "big birdABCDF": ["big birdABCD"],
 "big bird1F": ["big bird1"], "big bird1AF": ["big bird1A"], "big bird1BF": ["big bird1B"], "big bird1CF": ["big bird1C"], "big bird1DF": ["big bird1D"], "big bird1EF": ["big bird1E"], "big bird1ABF": ["big bird1AB"], "big bird1ACF": ["big bird1AC"], "big bird1ADF": ["big bird1AD"], "big bird1BCF": ["big bird1BC"], "big bird1BDF": ["big bird1BD"], "big bird1BEF": ["big bird1BE"], "big bird1CDF": ["big bird1CD"], "big bird1DEF": ["big bird1DE"], "big bird1ABCF": ["big bird1ABC"], "big bird1ABDF": ["big bird1ABD"], "big bird1ACDF": ["big bird1ACD"], "big bird1BCDF": ["big bird1BCD"], "big bird1BDEF": ["big bird1BDE"], "big bird1ABCDF": ["big bird1ABCD"],
 "big bird2F": ["big bird2"], "big bird2AF": ["big bird2A"], "big bird2BF": ["big bird2B"], "big bird2CF": ["big bird2C"], "big bird2DF": ["big bird2D"], "big bird2EF": ["big bird2E"], "big bird2ABF": ["big bird2AB"], "big bird2ACF": ["big bird2AC"], "big bird2ADF": ["big bird2AD"], "big bird2BCF": ["big bird2BC"], "big bird2BDF": ["big bird2BD"], "big bird2BEF": ["big bird2BE"], "big bird2CDF": ["big bird2CD"], "big bird2DEF": ["big bird2DE"], "big bird2ABCF": ["big bird2ABC"], "big bird2ABDF": ["big bird2ABD"], "big bird2ACDF": ["big bird2ACD"], "big bird2BCDF": ["big bird2BCD"], "big bird2BDEF": ["big bird2BDE"], "big bird2ABCDF": ["big bird2ABCD"],
@@ -78,7 +78,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -359,7 +359,6 @@
                         "common": "Self",
                         "newRole": { "cookieA": ["cookie"], "ernieA": ["ernie"], "groverA": ["grover"], "rositaA": ["rosita"], "abbyA": ["abby"], "zoeA": ["zoe"], "elmoA": ["elmo"], "dorothyA": ["dorothy"], "big birdA": ["big bird"], "big bird1A": ["big bird1"], "big bird2A": ["big bird2"], "big bird3A": ["big bird3"], "big bird4A": ["big bird4"], "big bird5A": ["big bird5"], "big bird6A": ["big bird6"], "big bird7A": ["big bird7"]},
                         "silentConvert": true,
-                        "count": 1,
                         "distractmsg": "You found yourself surrounded by thrash that was placed by the Grouch wanting to get rid of the smell, you decided to cleanse yourself off the smell.",
                         "teammsg": "The pungent stench of Oscar's trash stopped even you from moving!",
                         "silent": true,
@@ -387,8 +386,8 @@
                         "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
-"elmoE": ["elmo"], "elmoBE": ["elmoB"],  "elmoDE": ["elmoD"], "elmoBDE": ["elmoBD"],
-"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"],  "dorothyDE": ["dorothyD"], "dorothyBDE": ["dorothyBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
 "groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
@@ -429,63 +428,7 @@
                 }
             }
         },
-        {
-            "role": "testvillager3",
-            "translation": "villager form 3",
-            "help": "villy form 3",
-            "side": "village",
-            "actions": {
-                "initialCondition": {
-                    "curse": {
-                        "curseCount": 1,
-                        "cursedRole": "testvillager1",
-                        "silentCurse": true
-                    }
-                }
-            }
-        },
-        {
-            "role": "watcher3",
-            "translation": "watcher form 3",
-            "help": "watcher form 3",
-            "side": "village",
-            "actions": {
-                "startup": {
-                    "revealPlayers": [
-                        "mafia2"
-                    ],
-                    "revealPlayersMsg": " ~Players~ visited your target!"
-                },
-                "initialCondition": {
-                    "curse": {
-                        "curseCount": 1,
-                        "cursedRole": "watcher",
-                        "silentCurse": true
-                    }
-                }
-            }
-        },
-                {
-            "role": "watcher2",
-            "translation": "watcher form 2",
-            "help": "watcher form 2",
-            "side": "village",
-            "actions": {
-                "startup": {
-                    "revealPlayers": [
-                        "mafia"
-                    ],
-                    "revealPlayersMsg": " ~Players~ visited your target!"
-                },
-                "initialCondition": {
-                    "curse": {
-                        "curseCount": 1,
-                        "cursedRole": "watcher",
-                        "silentCurse": true
-                    }
-                }
-            }
-        },
+        
        {
             "role": "zoe2",
             "translation": "Zoe",
@@ -2535,6 +2478,50 @@
                 "priority": 6
             }}}
         },
+{
+            "role": "ernieDE",
+            "translation": "Ernie",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "info": "Can Stalk once per night. Sided with 123 Sesame Street. ",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "ernie",
+                        "silentCurse": true
+                }
+                },
+             "night": {
+            "stalk": {
+                "common": "Self",
+                "target": "AnyButSelf",
+                "priority": 6
+            }}}
+        },
+{
+            "role": "ernieABD",
+            "translation": "Ernie",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "info": "Can Stalk once per night. Sided with 123 Sesame Street. ",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "ernie",
+                        "silentCurse": true
+                }
+                },
+             "night": {
+            "stalk": {
+                "common": "Self",
+                "target": "AnyButSelf",
+                "priority": 6
+            }}}
+        },
            {
             "role": "ernieABC",
             "translation": "Ernie",
@@ -3940,7 +3927,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abby CD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF"
+                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -3962,7 +3949,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "count",  "countB", "countD", "countF",    "counBD",  "countBF",  "countDF",  "countABD", "countABF", "countBDF" 
+                        "count",  "countB", "countD", "countF",   "countBD",  "countBF",  "countDF",  "countBDF" 
                         ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4050,7 +4037,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "grouch1",  "grouch1B", "grouch1D", "grouch1F", "grouch1BD",  "grouch1BF", "grouch1DF",  "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abby CD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF"
+                        "grouch1",  "grouch1B", "grouch1D", "grouch1F", "grouch1BD",  "grouch1BF", "grouch1DF",  "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF"
                         ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4072,7 +4059,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                         "grouch1",  "grouch1B", "grouch1D", "grouch1F", "grouch1BD",  "grouch1BF", "grouch1DF", "count",  "countB", "countD", "countF",    "counBD",  "countBF",  "countDF",  "countABD", "countABF", "countBDF" 
+                         "grouch1",  "grouch1B", "grouch1D", "grouch1F", "grouch1BD",  "grouch1BF", "grouch1DF", "count",  "countB", "countD", "countF",    "countBD",  "countBF",  "countDF",  "countBDF" 
                            ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4138,7 +4125,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abby CD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "count",  "countB", "countD", "countF",    "counBD",  "countBF",  "countDF",  "countABD", "countABF", "countBDF" 
+                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "count",  "countB", "countD", "countF",    "countBD",  "countBF",  "countDF",  "countBDF" 
                                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4161,7 +4148,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abby CD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF",  "elmo", "elmoC", "elmoF", "elmoCF"
+                        "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF",  "elmo", "elmoC", "elmoF", "elmoCF"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4184,7 +4171,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                         "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abby CD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "grouch1",  "grouch1B", "grouch1D", "grouch1F", "grouch1BD", "grouch1BF", "grouch1DF"
+                         "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "grouch1",  "grouch1B", "grouch1D", "grouch1F", "grouch1BD", "grouch1BF", "grouch1DF"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4207,7 +4194,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                         "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abby CD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "ernie", "ernieC", "ernieD", "ernieE", "ernieCD", "ernieDE"
+                         "abby", "abbyA", "abbyC", "abbyD", "abbyE", "abbyF", "abbyAC", "abbyAD", "abbyAF", "abbyCD", "abbyCF", "abbyDE", "abbyDF", "abbyEF", "abbyACD", "abbyACF", "abbyADF", "abbyCDF", "abbyDEF", "abbyACDF", "ernie", "ernieC", "ernieD", "ernieE", "ernieCD", "ernieDE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4230,7 +4217,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "count",  "countB", "countD", "countF",    "counBD",  "countBF",  "countDF",  "countABD", "countABF", "countBDF", "elmo", "elmoC", "elmoF", "elmoCF"
+                        "count",  "countB", "countD", "countF",    "countBD",  "countBF",  "countDF",  "countBDF", "elmo", "elmoC", "elmoF", "elmoCF"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4297,7 +4284,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "elmo", "ernie", "elmoC", "elmoE", "elmoCE", "ernieC", "ernieE", "ernieCE"
+                        "elmo", "ernie", "elmoC", "elmoE", "ernieC", "ernieE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4386,7 +4373,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "grouch1", "abby", "ernie",  "grouch1D",  "abbyC", "abbyD", "abbyE", "abbyCD", "abbyCE", "abbyDE", "ernieC", "ernieD", "ernieE", "ernieCD", "ernieCE", "ernieDE", "ernieCDE"
+                        "grouch1", "abby", "ernie",  "grouch1D",  "abbyC", "abbyD", "abbyE", "abbyCD", "abbyDE", "ernieC", "ernieD", "ernieE", "ernieCD", "ernieDE", "ernieCDE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4569,7 +4556,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "abby", "oscar", "ernie", "abbyA", "abbyC", "oscarA", "oscarC", "ernieA", "ernieC", "abbyD", "oscarD", "ernieD"
+                        "abby", "grouch2", "ernie", "abbyA", "abbyC",  "ernieA", "ernieC", "abbyD", "Grouch2D", "ernieD"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4592,7 +4579,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "count", "elmo", "ernie",  "countB", "ernieA", "countB", "ernieA", "ernieB", "countE", "elmoE", "ernieE"
+                        "count", "elmo", "ernie",  "countB", "ernieA", "countB", "ernieA", "ernieB",  "elmoE", "ernieE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4615,7 +4602,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "elmo", "oscar", "ernie", "elmoA", "elmoC", "oscarA", "oscarC", "ernieA", "ernieC", "elmoB", "oscarB", "ernieB", "elmoAC", "elmoAB", "elmoABC", "oscarAB", "oscarAC", "oscarABC", "ernieAB", "ernieAC", "ernieABC"
+                        "elmo", "grouch2", "ernie", "elmoA", "elmoC",  "ernieA", "ernieC", "elmoB", "grouch2B", "ernieB", "elmoAC", "elmoAB", "elmoABC", "ernieAB", "ernieAC", "ernieABC"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4684,7 +4671,7 @@
             "actions": {
                 "startup": {
                     "revealPlayers": [
-                        "grouch1", "count", "elmo", "ernie", "grouch1B", "countB", "elmoB", "ernieB","countE", "elmoE", "ernieE", "elmo", "BE", "ernieBE"
+                        "grouch1", "count", "elmo", "ernie", "grouch1B", "countB", "elmoB", "ernieB","elmoE", "ernieE", "elmo", "BE", "ernieBE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -4707,7 +4694,7 @@
                 "startup": {
                     "revealPlayers": [
                         "abby", "count", "elmo", "ernie", "abbyA",  "elmoA", "ernieA", 
-                        "abbyE", "countE", "elmoE", "ernieE"
+                        "abbyE", "elmoE", "ernieE"
                     ],
                     "revealPlayersMsg": " ~Players~ visited your target!"
                 },
@@ -5602,6 +5589,7 @@
             }
         },
 
+
         {
             "role": "abbyA",
             "translation": "Abby",
@@ -5624,8 +5612,10 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"], "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                        "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5657,6 +5647,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"], "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5685,12 +5677,11 @@
                             "distract"
                         ],
                         "common": "Self",
-                        "newRole": {
-                            "testvillager3": [
-                                "testvillager1"
-                            ]
-                        },
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5722,6 +5713,10 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
+"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5753,6 +5748,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5784,6 +5781,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5815,6 +5814,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5846,6 +5847,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5877,6 +5880,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5908,6 +5913,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5939,6 +5946,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -5970,6 +5979,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6001,6 +6012,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6032,6 +6045,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6063,6 +6078,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6094,6 +6111,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6125,6 +6144,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6156,6 +6177,8 @@
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
+						"target": "AnyButSelf",
+						"priority": 2,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act."
                     }
@@ -6183,6 +6206,8 @@
                             "convert",
                             "distract"
                         ],
+						"target": "AnyButSelf",
+						"priority": 2,
                         "common": "Self",
                                                 "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
@@ -6854,7 +6879,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -6897,7 +6922,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"],
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -6940,7 +6965,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -6983,7 +7008,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7026,7 +7051,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7069,7 +7094,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7112,7 +7137,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7155,7 +7180,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7198,7 +7223,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7241,7 +7266,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7284,7 +7309,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7327,7 +7352,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7370,7 +7395,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7413,7 +7438,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7456,7 +7481,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7499,7 +7524,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7542,7 +7567,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7585,7 +7610,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7628,7 +7653,7 @@
                         "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
 "groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
-"countD": ["count"], "countAD": ["countA"], "countBD": ["countB"], "countCD": ["countC"], "countABD": ["countAB"], "countACD": ["countAC"], "countBCD": ["countBC"], "countABCD": ["countABC"],
+"countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
 "zoeD": ["zoe"], "zoeAD": ["zoeA"], "zoeBD": ["zoeB"], "zoeCD": ["zoeC"], "zoeABD": ["zoeAB"], "zoeACD": ["zoeAC"], "zoeBCD": ["zoeBC"], "zoeABCD": ["zoeABC"],
@@ -7649,7 +7674,7 @@
         },
       {
             "role": "countB",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7667,11 +7692,99 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
+                        "silentConvert": true,
+                        "common": "Self",
+                        "count": 1,
+                        "poisonDeadMessage":"1 death, 2 deaths, 3 deaths. Who will be the next?' You found yourself slowly falling to the ground, dead, as the Count leaves with your number..",
+                        "silent": true,
+                        "priority": 3,
+                        "target": "AnyButTeam"
+                    }
+                }
+            }
+        },
+
+ {
+            "role": "countDF",
+            "translation": "Count",
+            "help": "villy form 3",
+            "hide": true,
+            "side": "out",
+                    "actions": {
+                     "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "count",
+                        "silentCurse": true
+                    }
+                },
+                 "night": {
+                    "kill": {
+                        "command": [
+                            "convert",
+                            "poison"
+                        ],
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
+                        "silentConvert": true,
+                        "common": "Self",
+                        "count": 1,
+                        "poisonDeadMessage":"1 death, 2 deaths, 3 deaths. Who will be the next?' You found yourself slowly falling to the ground, dead, as the Count leaves with your number..",
+                        "silent": true,
+                        "priority": 3,
+                        "target": "AnyButTeam"
+                    }
+                }
+            }
+        },
+ {
+            "role": "countBF",
+            "translation": "Count",
+            "help": "villy form 3",
+            "hide": true,
+            "side": "out",
+                    "actions": {
+                     "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "count",
+                        "silentCurse": true
+                    }
+                },
+                 "night": {
+                    "kill": {
+                        "command": [
+                            "convert",
+                            "poison"
+                        ],
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7685,7 +7798,7 @@
         },
      {
             "role": "countC",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7703,11 +7816,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7721,7 +7839,7 @@
         },
      {
             "role": "countD",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7739,11 +7857,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7757,7 +7880,7 @@
         },
      {
             "role": "countF",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7775,11 +7898,57 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
+                        "silentConvert": true,
+                        "common": "Self",
+                        "count": 1,
+                        "poisonDeadMessage":"1 death, 2 deaths, 3 deaths. Who will be the next?' You found yourself slowly falling to the ground, dead, as the Count leaves with your number..",
+                        "silent": true,
+                        "priority": 3,
+                        "target": "AnyButTeam"
+                    }
+                }
+            }
+        },
+{
+            "role": "countBDF",
+            "translation": "Count",
+            "help": "villy form 3",
+            "hide": true,
+            "side": "out",
+                    "actions": {
+                     "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "count",
+                        "silentCurse": true
+                    }
+                },
+                 "night": {
+                    "kill": {
+                        "command": [
+                            "convert",
+                            "poison"
+                        ],
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7793,7 +7962,7 @@
         },
      {
             "role": "countBC",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7811,11 +7980,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7829,7 +8003,7 @@
         },
      {
             "role": "countBD",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7847,11 +8021,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7865,7 +8044,7 @@
         },
      {
             "role": "countCD",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7883,11 +8062,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7901,7 +8085,7 @@
         },
      {
             "role": "countCF",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7919,11 +8103,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7937,7 +8126,7 @@
         },
      {
             "role": "countBCD",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7955,11 +8144,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -7973,7 +8167,7 @@
         },
      {
             "role": "countBCF",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7991,11 +8185,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -8009,7 +8208,7 @@
         },
      {
             "role": "countCDF",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8027,11 +8226,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -8045,7 +8249,7 @@
         },
      {
             "role": "countBCDF",
-            "translation": "count",
+            "translation": "Count",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8063,11 +8267,16 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
+"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
+"elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
+"zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
+"ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
+"rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
+"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
+                        
                         "silentConvert": true,
                         "common": "Self",
                         "count": 1,
@@ -8224,7 +8433,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8235,14 +8444,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8260,7 +8479,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8271,14 +8490,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8296,7 +8525,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8307,14 +8536,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8332,7 +8571,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8343,14 +8582,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8368,7 +8617,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8379,14 +8628,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8404,7 +8663,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8415,14 +8674,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8440,7 +8709,7 @@
                     "actions": {
                      "initialCondition": {
                     "curse": {
-                        "curseGrouch2": 1,
+                        "curseCount": 1,
                         "cursedRole": "grouch2",
                         "silentCurse": true
                     }
@@ -8451,14 +8720,24 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {
-                            "testvillager2": [
-                                "testvillager1"
-                            ]
-                        },
+                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+"rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
+"zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
+"elmoE": ["elmo"], "elmoBE": ["elmoB"], 
+"dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
+"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
+"big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
+"big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
+"big bird2E": ["big bird2"], "big bird2BE": ["big bird2B"],  "big bird2DE": ["big bird2D"], "big bird2BDE": ["big bird2BD"],
+"big bird3E": ["big bird3"], "big bird3BE": ["big bird3B"],  "big bird3DE": ["big bird3D"], "big bird3BDE": ["big bird3BD"],
+"big bird4E": ["big bird4"], "big bird4BE": ["big bird4B"],  "big bird4DE": ["big bird4D"], "big bird4BDE": ["big bird4BD"],
+"big bird5E": ["big bird5"], "big bird5BE": ["big bird5B"],  "big bird5DE": ["big bird5D"], "big bird5BDE": ["big bird5BD"],
+"big bird6E": ["big bird6"], "big bird6BE": ["big bird6B"],  "big bird6DE": ["big bird6D"], "big bird6BDE": ["big bird6BD"],
+"big bird7E": ["big bird7"], "big bird7BE": ["big bird7B"],  "big bird7DE": ["big bird7D"], "big bird7BDE": ["big bird7BD"]},
                         "silentConvert": true,
                         "common": "Self",
-                        "grouch2": 1,
+                        "count": 1,
                         "poisonDeadMessage": "Oscar buried you in a mountain of trash!",
                         "silent": true,
                         "priority": 3,
@@ -8467,6 +8746,7 @@
                 }
             }
         },
+
  {
             "role": "big bird2A",
             "translation": "Big bird",
@@ -11402,6 +11682,135 @@
                 }
             }
         },
+{
+            "role": "big birdDE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+        },
+{
+            "role": "big bird1DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+        },
+{
+            "role": "big bird2DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+},
+
+{
+            "role": "big bird7DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+},
+{
+            "role": "big bird6DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+},
+{
+            "role": "big bird5DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+},
+{
+            "role": "big bird4DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+},
+{
+            "role": "big bird3DE",
+            "translation": "Big bird",
+            "hide": true,
+            "help": "None needed",
+            "side": "village",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "curseCount": 1,
+                        "cursedRole": "big bird6",
+                        "silentCurse": true
+                    }
+                }
+            }
+},
 {
             "role": "big bird6DEF",
             "translation": "Big bird",
