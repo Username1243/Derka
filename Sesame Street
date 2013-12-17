@@ -1,4 +1,3 @@
-
 {
     "name": "ss",
     "altname": "Sesame Street",
@@ -247,7 +246,6 @@
                     "watch": {
                         "command": "copy",
                         "common": "Self",
-                        "silentCopy": true,
                         "copyAs": { "bertA": ["elmoA", "ernieA", "groverA", "rositaA", "abbyA", "cookieA", "big birdA", "big bird1A", "zoeA", "dorothyA", "big bird2A", "big bird3A", "big bird4A", "big bird5A", "big bird6A", "big bird7A"], 
 "bertB": ["elmoB", "ernieB", "groverB", "rositaB", "cookieB", "big birdB", "big bird1B", "zoeB", "dorothyB", "grouch1B", "grouch2B", "countB", "big bird2B", "big bird3B", "big bird4B", "big bird5B", "big bird6B", "big bird7B"],
 "bertC": ["elmoC", "ernieC", "groverC", "rositaC", "cookieC", "big birdC", "big bird1C", "zoeC", "dorothyC", "abbyC", "big bird2C", "big bird3C", "big bird4C", "big bird5C", "big bird6C", "big bird7C"],
