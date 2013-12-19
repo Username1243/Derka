@@ -25,7 +25,7 @@
     "roles": [
 {
     "role": "ernie",
-    “translation”: “Ernie”,
+    "translation": "Ernie",
     "side": "village",
     "help": "You are the Insomnic being, Ernie. Since you don't sleep well at night, you spend your time observing others instead. People have filed charges to keep you away, but you still find ways to watch what they do at night with /stalk.",
     "info": "Can Stalk once per night. Sided with 123 Sesame Street.",
@@ -62,7 +62,7 @@
     }}}},
         {
             "role": "elmo",
-            “translation”: “Elmo”,
+            "translation": "Elmo",
             "side": "world",
             "help": "Known as the 'Little Red Menace' by the citizens of Sesame Street, Elmo believe that the whole world should avoid pronouns and talk using third person. Elmo believe that the world revolves around Elmo and everyone should follow Elmo's examples/behaviour. Along with Elmo's fish, Dorothy, Elmo has decided to claim Sesame Street as Elmo's own. Elmo can get rid of one of Elmo's enemies using /kill once per night. Elmo kills his victims without being followed, but a watcher could still see Elmo and his victim together.",
             "info": "Can kill. Ignores Stalk. Sided with Elmo's world.",
@@ -104,7 +104,7 @@
         },
         {
             "role": "zoe",
-            “translation”: “Zoe”,
+            "translation": "Zoe",
             "help": "puppet help message",
             "side": "village",
             "info": "Villager. Sided with 123 Sesame Street.",
@@ -126,7 +126,7 @@
         },
         {
             "role": "rosita",
-            “translation”: “Rosita”,
+            "translation": "Rosita",
             "help": "puppet help message",
             "side": "village",
             "info": "Villager. Sided with 123 Sesame Street.",
@@ -148,7 +148,7 @@
         },
                {
             "role": "cookie",
-            “translation”: “Cookie Monster”,
+            "translation": "Cookie Monster",
             "help": "You are the voracious glutton, Cookie Monster. Throughout the years, you became a well respected businessman and connoiseur of the finer tastes. Yet you always go back to your first love, cookies. If anyone tries to vote you out and get you away from cookies, you will become enraged and kill the first person who voted you!",
             "side": "village",
             "info": "Kills whoever votes it first when voted out. Sided with 123 Sesame Street.",
@@ -163,7 +163,7 @@
                 }}}
         },
 {"role": "big bird7",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": "You are the schizophrenic and intensely curious yellow being known as Big Bird. As time passed, you became more and more curious about the state of Sesame Street, so you pledged to make it better. You became it's mayor and prime politician. You gain your power from your citizens, so you have as many votes as other town members who are alive, which is 7 right now.",
 "side": "village",
@@ -171,7 +171,7 @@
     "vote": 7
 }},
 {"role": "big bird6",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": "You are the schizophrenic and intensely curious yellow being known as Big Bird. As time passed, you became more and more curious about the state of Sesame Street, so you pledged to make it better. You became it's mayor and prime politician. You gain your power from your citizens, so you have as many votes as other town members who are alive, which is 6 right now.",
 "side": "village",
@@ -179,7 +179,7 @@
     "vote": 6
 }},
 {"role": "big bird5",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": "You are the schizophrenic and intensely curious yellow being known as Big Bird. As time passed, you became more and more curious about the state of Sesame Street, so you pledged to make it better. You became it's mayor and prime politician. You gain your power from your citizens, so you have as many votes as other town members who are alive, which is 5 right now.",
 "side": "village",
@@ -187,7 +187,7 @@
     "vote": 5
 }},
 {"role": "big bird4",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": " Another village member has died! You now have 4 votes!",
 "side": "village",
@@ -195,7 +195,7 @@
     "vote": 4
 }},
 {"role": "big bird3",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": " Another village member has died! You now have 3 votes!",
 "side": "village",
@@ -203,7 +203,7 @@
     "vote": 3
 }},
 {"role": "big bird2",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": " Another village member has died! You now have 2 votes!",
 "side": "village",
@@ -211,7 +211,7 @@
     "vote": 2
 }},
 {"role": "big bird1",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "hide": true,
 "help": " Another village member has died! You now have 1 votes!",
 "side": "village",
@@ -219,7 +219,7 @@
     "vote": 1
 }},
 {"role": "big bird",
-“translation”: “Big Bird”,
+"translation": "Big Bird",
 "help": "Big bird You are the last helpful member of Sesame Street. As a mayor of no one, your power to govern is exactly that - non-existant. Sesame Street has been corrupted by forces beyond your control.. and now it is time for you to step aside." ,
 "side": "village",
 "info":"Mayor. Number of votes depend of number of village members. Sided with 123 Sesame Street. ",
@@ -234,7 +234,7 @@
 
        {
             "role": "bert",
-            “translation”: “Bert”,
+            "translation": "Bert",
             "help": "As a slightly autistic member of Sesame Street, you have always been kind, yet easily frustrated. Nothing upsets you more than having to stay up all night because Ernie can't sleep, yet you've found a hobby to keep you occupied. You can /watch a person to see who visits them during the night, but you can't perfectly make out what they went to do!",
             "side": "village",
             "info": "Can watch once per night to see who the player visited. Sided with 123 Sesame Street." ,
@@ -288,7 +288,7 @@
         },
         {
             "role": "count",
-            “translation”: “Count”,
+            "translation": "Count",
             "side": "out",
             "help": "As the arithmomic vampire of Sesame Street, you can't help but count all the people you've killed in your life. One, hahaha, two, hahaha.... seventy nine, hahaha! Use /kill to continue increasing the number! ",
             "info": "Can Kill. Sided with Outcasts. ",
@@ -321,7 +321,7 @@
         },
         {
             "role": "dorothy",
-            “translation”: “Dorothy”,
+            "translation": "Dorothy",
             "side": "world",
             "help": "Being inquisitive and possessing an active imagination, you share the same thoughts as your owner, Elmo, and wish to possess Sesame Street. Use /kill to drown your target in your fish bowl. As you never leave your fish bowl, you can't be watched (but can be stalked)!",
             "info": "Can kill. Ignores Watch. Sided with Elmo's world.",
@@ -342,7 +342,7 @@
         },
         {
             "role": "abby",
-            “translation”: “Abby”,
+            "translation": "Abby",
             "side": "village",
             "help": "Although you are a fairy, you have limited magical powers. However, that doesn't mean you aren't powerless! Use /distract to turn your targets into pumpkins and render them useless, twice per game!",
             "info": "Can distract once per night. Sided with 123 Sesame Street. ",
@@ -370,7 +370,7 @@
             },
              {
             "role": "grouch1",
-            “translation”: “Oscar the Grouch”,
+            "translation": "Oscar the Grouch",
             "side": "out",
             "help": "You are the compulsive green hoarder who lives in a trash can. Unhappy with the differences within Sesame Street, you have formed an aliance with the Count who shares the same views with you. You can /distract one player per night to prevent them from doing anything using your smelly trash. Once the Count dies, you will be able to /kill!",
             "info": "Can Distract. Sided with Outcasts.",
@@ -393,7 +393,7 @@
                     }}}},
              {
             "role": "grouch2",
-            “translation”: “Oscar the Grouch”,
+            "translation": "Oscar the Grouch",
             "side": "out",
             "help": "The Count is dead! Now you can /kill during the night to rid Sesame Street of the real trash.",
             "info": "Ignores Distract. Can Kill. Sided with Outcasts.",
@@ -436,7 +436,7 @@
             },
              {
             "role": "grover",
-            “translation”: “Grover”,
+            "translation": "Grover",
             "side": "village",
             "help": "Once a lovable, cute and furry monster, you have always thought you were the most special being alive. You have been told that you have an inflated sense of self-esteem and overestimation, making you look like a megalomaniac. However, they do not realize that you actually have super powers and thus you can /kill a person during the day once per game.",
             "info": "Can Daykill once per game. Sided with 123 Sesame Street. ",
@@ -458,7 +458,7 @@
       
         {
             "role": "big birdA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -474,7 +474,7 @@
         },
         {
             "role": "big birdB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -490,7 +490,7 @@
         },
         {
             "role": "big birdC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -506,7 +506,7 @@
         },
         {
             "role": "big birdD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -522,7 +522,7 @@
         },
         {
             "role": "big birdE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -538,7 +538,7 @@
         },
         {
             "role": "big birdAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -554,7 +554,7 @@
         },
         {
             "role": "big birdAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -570,7 +570,7 @@
         },
         {
             "role": "big birdAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -586,7 +586,7 @@
         },
         {
             "role": "big birdBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -602,7 +602,7 @@
         },
         {
             "role": "big birdBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -618,7 +618,7 @@
         },
         {
             "role": "big birdBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -634,7 +634,7 @@
         },
         {
             "role": "big birdCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -650,7 +650,7 @@
         },
         {
             "role": "big birdABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -666,7 +666,7 @@
         },
         {
             "role": "big birdABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -682,7 +682,7 @@
         },
         {
             "role": "big birdACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -698,7 +698,7 @@
         },
         {
             "role": "big birdBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -714,7 +714,7 @@
         },
         {
             "role": "big birdBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -730,7 +730,7 @@
         },
         {
             "role": "big birdABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -746,7 +746,7 @@
         }, 
         {
             "role": "big birdF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -762,7 +762,7 @@
         }, 
         {
             "role": "big birdAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -778,7 +778,7 @@
         },
         {
             "role": "big birdBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -794,7 +794,7 @@
         },
         {
             "role": "big birdCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -810,7 +810,7 @@
         },
         {
             "role": "big birdDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -826,7 +826,7 @@
         },
         {
             "role": "big birdEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -842,7 +842,7 @@
         },
         {
             "role": "big birdABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -858,7 +858,7 @@
         },
         {
             "role": "big birdACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -874,7 +874,7 @@
         },
         {
             "role": "big birdADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -890,7 +890,7 @@
         },
         {
             "role": "big birdBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -906,7 +906,7 @@
         },
         {
             "role": "big birdBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -922,7 +922,7 @@
         },
         {
             "role": "big birdBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -938,7 +938,7 @@
         },
         {
             "role": "big birdCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -954,7 +954,7 @@
         },
 {
             "role": "big birdDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -970,7 +970,7 @@
         },
         {
             "role": "big birdABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -986,7 +986,7 @@
         },
         {
             "role": "big birdABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1002,7 +1002,7 @@
         },
         {
             "role": "big birdACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1018,7 +1018,7 @@
         },
         {
             "role": "big birdBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1034,7 +1034,7 @@
         },
         {
             "role": "big birdBDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1050,7 +1050,7 @@
         },
         {
             "role": "big birdABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1067,7 +1067,7 @@
 
         {
             "role": "big bird1A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1083,7 +1083,7 @@
         },
         {
             "role": "big bird1B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1099,7 +1099,7 @@
         },
         {
             "role": "big bird1C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1115,7 +1115,7 @@
         },
         {
             "role": "big bird1D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1131,7 +1131,7 @@
         },
         {
             "role": "big bird1E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1147,7 +1147,7 @@
         },
         {
             "role": "big bird1AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1163,7 +1163,7 @@
         },
         {
             "role": "big bird1AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1179,7 +1179,7 @@
         },
         {
             "role": "big bird1AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1195,7 +1195,7 @@
         },
         {
             "role": "big bird1BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1211,7 +1211,7 @@
         },
         {
             "role": "big bird1BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1227,7 +1227,7 @@
         },
         {
             "role": "big bird1BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1243,7 +1243,7 @@
         },
         {
             "role": "big bird1CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1259,7 +1259,7 @@
         },
         {
             "role": "big bird1ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1275,7 +1275,7 @@
         },
         {
             "role": "big bird1ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1291,7 +1291,7 @@
         },
         {
             "role": "big bird1ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1307,7 +1307,7 @@
         },
         {
             "role": "big bird1BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1323,7 +1323,7 @@
         },
         {
             "role": "big bird1BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1339,7 +1339,7 @@
         },
         {
             "role": "big bird1ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1355,7 +1355,7 @@
         }, 
         {
             "role": "big bird1F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1371,7 +1371,7 @@
         }, 
         {
             "role": "big bird1AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1387,7 +1387,7 @@
         },
         {
             "role": "big bird1BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1403,7 +1403,7 @@
         },
         {
             "role": "big bird1CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1419,7 +1419,7 @@
         },
         {
             "role": "big bird1DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1435,7 +1435,7 @@
         },
         {
             "role": "big bird1EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1451,7 +1451,7 @@
         },
         {
             "role": "big bird1ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1467,7 +1467,7 @@
         },
         {
             "role": "big bird1ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1483,7 +1483,7 @@
         },
         {
             "role": "big bird1ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1499,7 +1499,7 @@
         },
         {
             "role": "big bird1BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1515,7 +1515,7 @@
         },
         {
             "role": "big bird1BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1531,7 +1531,7 @@
         },
         {
             "role": "big bird1BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1547,7 +1547,7 @@
         },
         {
             "role": "big bird1CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1563,7 +1563,7 @@
         },
 {
             "role": "big bird1DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1579,7 +1579,7 @@
         },
         {
             "role": "big bird1ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1595,7 +1595,7 @@
         },
         {
             "role": "big bird1ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1611,7 +1611,7 @@
         },
         {
             "role": "big bird1ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1627,7 +1627,7 @@
         },
         {
             "role": "big bird1BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1643,7 +1643,7 @@
         },
         {
             "role": "big bird1BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1659,7 +1659,7 @@
         },
         {
             "role": "big bird1ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -1676,7 +1676,7 @@
 
         {
             "role": "dorothyA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "side": "village",
             "actions": {
@@ -1704,7 +1704,7 @@
         },
         {
             "role": "dorothyB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1733,7 +1733,7 @@
         },
         {
             "role": "dorothyC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1762,7 +1762,7 @@
         },
         {
             "role": "dorothyE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1791,7 +1791,7 @@
         },
         {
             "role": "dorothyF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1820,7 +1820,7 @@
         },
         {
             "role": "dorothyAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1849,7 +1849,7 @@
         },
         {
             "role": "dorothyAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1878,7 +1878,7 @@
         },
         {
             "role": "dorothyAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1907,7 +1907,7 @@
         },
         {
             "role": "dorothyBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1936,7 +1936,7 @@
         },
         {
             "role": "dorothyBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1965,7 +1965,7 @@
         },
         {
             "role": "dorothyBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -1994,7 +1994,7 @@
         },
         {
             "role": "dorothyABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2023,7 +2023,7 @@
         },
         {
             "role": "dorothyCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2052,7 +2052,7 @@
         },
         {
             "role": "dorothyEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2081,7 +2081,7 @@
         },
         {
             "role": "dorothyABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2110,7 +2110,7 @@
         },
         {
             "role": "dorothyACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2139,7 +2139,7 @@
         },
         {
             "role": "dorothyBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2168,7 +2168,7 @@
         },
         {
             "role": "dorothyABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2197,7 +2197,7 @@
         },
         {
             "role": "dorothyBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
              "hide": true,
             "side": "village",
@@ -2226,7 +2226,7 @@
         },
            {
             "role": "ernieB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2248,7 +2248,7 @@
         },
            {
             "role": "ernieC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2270,7 +2270,7 @@
         },
            {
             "role": "ernieD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2292,7 +2292,7 @@
         },
            {
             "role": "ernieA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2314,7 +2314,7 @@
         },
            {
             "role": "ernieE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2336,7 +2336,7 @@
         },
            {
             "role": "ernieAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2358,7 +2358,7 @@
         },
            {
             "role": "ernieAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2380,7 +2380,7 @@
         },
            {
             "role": "ernieAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2402,7 +2402,7 @@
         },
            {
             "role": "ernieBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2424,7 +2424,7 @@
         },
            {
             "role": "ernieBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2446,7 +2446,7 @@
         },
            {
             "role": "ernieBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2468,7 +2468,7 @@
         },
            {
             "role": "ernieCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2490,7 +2490,7 @@
         },
 {
             "role": "ernieDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2512,7 +2512,7 @@
         },
 {
             "role": "ernieABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2534,7 +2534,7 @@
         },
            {
             "role": "ernieABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2556,7 +2556,7 @@
         },
            {
             "role": "ernieACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2578,7 +2578,7 @@
         },
            {
             "role": "ernieBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2600,7 +2600,7 @@
         },
            {
             "role": "ernieBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2622,7 +2622,7 @@
         },
            {
             "role": "ernieABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -2645,7 +2645,7 @@
 
         {
             "role": "zoeA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2661,7 +2661,7 @@
         },
         {
             "role": "zoeB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2677,7 +2677,7 @@
         },
         {
             "role": "zoeC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2693,7 +2693,7 @@
         },
         {
             "role": "zoeD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2709,7 +2709,7 @@
         },
         {
             "role": "zoeE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2725,7 +2725,7 @@
         },
         {
             "role": "zoeAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2741,7 +2741,7 @@
         },
         {
             "role": "zoeAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2757,7 +2757,7 @@
         },
         {
             "role": "zoeAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2773,7 +2773,7 @@
         },
         {
             "role": "zoeBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2789,7 +2789,7 @@
         },
         {
             "role": "zoeBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2805,7 +2805,7 @@
         },
         {
             "role": "zoeBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2821,7 +2821,7 @@
         },
         {
             "role": "zoeCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2837,7 +2837,7 @@
         },
         {
             "role": "zoeABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2853,7 +2853,7 @@
         },
         {
             "role": "zoeABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2869,7 +2869,7 @@
         },
         {
             "role": "zoeACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2885,7 +2885,7 @@
         },
         {
             "role": "zoeBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2901,7 +2901,7 @@
         },
         {
             "role": "zoeBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2917,7 +2917,7 @@
         },
         {
             "role": "zoeABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2933,7 +2933,7 @@
         },
         {
             "role": "zoeF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2949,7 +2949,7 @@
         },
         {
             "role": "zoeAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2965,7 +2965,7 @@
         },
         {
             "role": "zoeBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2981,7 +2981,7 @@
         },
         {
             "role": "zoeCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -2997,7 +2997,7 @@
         },
         {
             "role": "zoeDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3013,7 +3013,7 @@
         },
         {
             "role": "zoeEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3029,7 +3029,7 @@
         },
         {
             "role": "zoeABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3045,7 +3045,7 @@
         },
         {
             "role": "zoeACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3061,7 +3061,7 @@
         },
         {
             "role": "zoeADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3077,7 +3077,7 @@
         },
         {
             "role": "zoeBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3093,7 +3093,7 @@
         },
         {
             "role": "zoeBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3109,7 +3109,7 @@
         },
 {
             "role": "zoeDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3125,7 +3125,7 @@
         },
         {
             "role": "zoeBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3141,7 +3141,7 @@
         },
         {
             "role": "zoeCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3157,7 +3157,7 @@
         },
         {
             "role": "zoeDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3173,7 +3173,7 @@
         },
         {
             "role": "zoeABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3189,7 +3189,7 @@
         },
         {
             "role": "zoeABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3205,7 +3205,7 @@
         },
         {
             "role": "zoeACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3221,7 +3221,7 @@
         },
         {
             "role": "zoeBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3237,7 +3237,7 @@
         },
         {
             "role": "zoeBDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3253,7 +3253,7 @@
         },
         {
             "role": "zoeABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3271,7 +3271,7 @@
 
         {
             "role": "rositaA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3287,7 +3287,7 @@
         },
         {
             "role": "rositaB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3303,7 +3303,7 @@
         },
         {
             "role": "rositaC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3319,7 +3319,7 @@
         },
         {
             "role": "rositaD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3335,7 +3335,7 @@
         },
         {
             "role": "rositaE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3351,7 +3351,7 @@
         },
         {
             "role": "rositaAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3367,7 +3367,7 @@
         },
         {
             "role": "rositaAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3383,7 +3383,7 @@
         },
         {
             "role": "rositaAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3399,7 +3399,7 @@
         },
         {
             "role": "rositaBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3415,7 +3415,7 @@
         },
         {
             "role": "rositaBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3431,7 +3431,7 @@
         },
         {
             "role": "rositaBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3447,7 +3447,7 @@
         },
         {
             "role": "rositaCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3463,7 +3463,7 @@
         },
         {
             "role": "rositaABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3479,7 +3479,7 @@
         },
         {
             "role": "rositaABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3495,7 +3495,7 @@
         },
         {
             "role": "rositaACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3511,7 +3511,7 @@
         },
         {
             "role": "rositaBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3527,7 +3527,7 @@
         },
         {
             "role": "rositaBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3543,7 +3543,7 @@
         },
         {
             "role": "rositaABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3567,7 +3567,7 @@
 
         {
             "role": "rositaF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3585,7 +3585,7 @@
 
         {
             "role": "rositaAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3601,7 +3601,7 @@
         },
         {
             "role": "rositaBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3617,7 +3617,7 @@
         },
         {
             "role": "rositaCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3633,7 +3633,7 @@
         },
         {
             "role": "rositaDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3649,7 +3649,7 @@
         },
         {
             "role": "rositaEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3665,7 +3665,7 @@
         },
         {
             "role": "rositaABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3681,7 +3681,7 @@
         },
         {
             "role": "rositaACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3697,7 +3697,7 @@
         },
         {
             "role": "rositaADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3713,7 +3713,7 @@
         },
         {
             "role": "rositaBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3729,7 +3729,7 @@
         },
         {
             "role": "rositaBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3745,7 +3745,7 @@
         },
 {
             "role": "rositaDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3761,7 +3761,7 @@
         },
         {
             "role": "rositaBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3777,7 +3777,7 @@
         },
         {
             "role": "rositaCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3793,7 +3793,7 @@
         },
 {
             "role": "rositaDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3809,7 +3809,7 @@
         },
         {
             "role": "rositaABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3825,7 +3825,7 @@
         },
         {
             "role": "rositaABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3841,7 +3841,7 @@
         },
         {
             "role": "rositaACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3857,7 +3857,7 @@
         },
         {
             "role": "rositaBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3873,7 +3873,7 @@
         },
         {
             "role": "rositaBDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3889,7 +3889,7 @@
         },
         {
             "role": "rositaABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "Noneneeded",
             "side": "village",
@@ -3909,7 +3909,7 @@
 
         {
             "role": "bertA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "You have observed your target this night!",
             "side": "village",
             "actions": {
@@ -3930,7 +3930,7 @@
         },
         {
             "role": "bertB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -3952,7 +3952,7 @@
         },
                 {
             "role": "bertC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -3974,7 +3974,7 @@
         },
                 {
             "role": "bertD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -3996,7 +3996,7 @@
         },
                 {
             "role": "bertE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4018,7 +4018,7 @@
         },
                 {
             "role": "bertF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4040,7 +4040,7 @@
         },
                 {
             "role": "bertAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4062,7 +4062,7 @@
         },
                 {
             "role": "bertAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4084,7 +4084,7 @@
         },
                 {
             "role": "bertAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4106,7 +4106,7 @@
         },
                 {
             "role": "bertAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4128,7 +4128,7 @@
         },
                 {
             "role": "bertBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4151,7 +4151,7 @@
 
                 {
             "role": "bertBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4174,7 +4174,7 @@
 
                 {
             "role": "bertBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4197,7 +4197,7 @@
 
                 {
             "role": "bertBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4220,7 +4220,7 @@
 
                 {
             "role": "bertCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4243,7 +4243,7 @@
 
                 {
             "role": "bertCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4265,7 +4265,7 @@
         },
                 {
             "role": "bertDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4287,7 +4287,7 @@
         },
                 {
             "role": "bertDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4309,7 +4309,7 @@
         },
                 {
             "role": "bertEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4331,7 +4331,7 @@
         },
                 {
             "role": "bertABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4353,7 +4353,7 @@
         },
                 {
             "role": "bertABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4376,7 +4376,7 @@
 
                 {
             "role": "bertABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4399,7 +4399,7 @@
 
                 {
             "role": "bertACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4422,7 +4422,7 @@
 
                 {
             "role": "bertACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4445,7 +4445,7 @@
 
                 {
             "role": "bertADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4468,7 +4468,7 @@
 
                 {
             "role": "bertBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4491,7 +4491,7 @@
 
                 {
             "role": "bertBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4514,7 +4514,7 @@
 
                 {
             "role": "bertBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4536,7 +4536,7 @@
         },
 		{
 "role": "bertBDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4559,7 +4559,7 @@
 
                 {
             "role": "bertBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4581,7 +4581,7 @@
         },
                 {
             "role": "bertBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4604,7 +4604,7 @@
 
                 {
             "role": "bertCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4627,7 +4627,7 @@
 
                 {
             "role": "bertDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4650,7 +4650,7 @@
 
                 {
             "role": "bertABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4673,7 +4673,7 @@
 
                 {
             "role": "bertABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4696,7 +4696,7 @@
 
                 {
             "role": "bertACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4718,7 +4718,7 @@
         },
                 {
             "role": "bertBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4741,7 +4741,7 @@
         },
                 {
             "role": "bertABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
@@ -4764,7 +4764,7 @@
 
         {
             "role": "groverA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4786,7 +4786,7 @@
         },
                 {
             "role": "groverB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4808,7 +4808,7 @@
         },
                 {
             "role": "groverC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4830,7 +4830,7 @@
         },
                 {
             "role": "groverD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4852,7 +4852,7 @@
         },
                 {
             "role": "groverE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4874,7 +4874,7 @@
         },
                 {
             "role": "groverAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4896,7 +4896,7 @@
         },    
             {
             "role": "groverAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4918,7 +4918,7 @@
         },   
              {
             "role": "groverAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4940,7 +4940,7 @@
         },    
             {
             "role": "groverBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4962,7 +4962,7 @@
         },   
              {
             "role": "groverBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -4984,7 +4984,7 @@
         },    
             {
             "role": "groverBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5006,7 +5006,7 @@
         },     
            {
             "role": "groverCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5028,7 +5028,7 @@
         },   
              {
             "role": "groverABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5050,7 +5050,7 @@
         },    
             {
             "role": "groverABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5072,7 +5072,7 @@
         },     
            {
             "role": "groverACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5094,7 +5094,7 @@
         }, 
                {
             "role": "groverBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5116,7 +5116,7 @@
         }, 
                {
             "role": "groverBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5138,7 +5138,7 @@
         },      
           {
             "role": "groverABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5160,7 +5160,7 @@
         },
 	{
             "role": "groverF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5182,7 +5182,7 @@
         },
        {
             "role": "groverAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5204,7 +5204,7 @@
         },
                 {
             "role": "groverBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5226,7 +5226,7 @@
         },
                 {
             "role": "groverCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5248,7 +5248,7 @@
         },
                 {
             "role": "groverDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5270,7 +5270,7 @@
         },
                 {
             "role": "groverEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5292,7 +5292,7 @@
         },
                 {
             "role": "groverABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5314,7 +5314,7 @@
         },    
             {
             "role": "groverACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5336,7 +5336,7 @@
         },   
              {
             "role": "groverADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5358,7 +5358,7 @@
         },    
             {
             "role": "groverBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5380,7 +5380,7 @@
         },   
              {
             "role": "groverBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5402,7 +5402,7 @@
         },    
             {
             "role": "groverBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5424,7 +5424,7 @@
         },     
            {
             "role": "groverCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5446,7 +5446,7 @@
         },
           {
             "role": "groverDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5468,7 +5468,7 @@
         },
           {
             "role": "groverDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5490,7 +5490,7 @@
         },
              {
             "role": "groverABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5512,7 +5512,7 @@
         },    
             {
             "role": "groverABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5534,7 +5534,7 @@
         },     
            {
             "role": "groverACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5556,7 +5556,7 @@
         }, 
                {
             "role": "groverBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5578,7 +5578,7 @@
         }, 
                {
             "role": "groverBDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5600,7 +5600,7 @@
         },      
           {
             "role": "groverABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5624,7 +5624,7 @@
 
         {
             "role": "abbyA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5656,7 +5656,7 @@
         },
         {
             "role": "abbyC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5689,7 +5689,7 @@
         },
         {
             "role": "abbyD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5722,7 +5722,7 @@
         },
         {
             "role": "abbyE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5757,7 +5757,7 @@
         },
         {
             "role": "abbyF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5790,7 +5790,7 @@
         },
         {
             "role": "abbyAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5823,7 +5823,7 @@
         },
         {
             "role": "abbyAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5856,7 +5856,7 @@
         },
         {
             "role": "abbyAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5889,7 +5889,7 @@
         },
         {
             "role": "abbyCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5922,7 +5922,7 @@
         },
         {
             "role": "abbyCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5955,7 +5955,7 @@
         },
         {
             "role": "abbyDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -5988,7 +5988,7 @@
         },
         {
             "role": "abbyDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6021,7 +6021,7 @@
         },
 {
             "role": "abbyEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6054,7 +6054,7 @@
         },
 {
             "role": "abbyDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6087,7 +6087,7 @@
         },
         {
             "role": "abbyACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6120,7 +6120,7 @@
         },
         {
             "role": "abbyACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6153,7 +6153,7 @@
         },
         {
             "role": "abbyADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6186,7 +6186,7 @@
         },
         {
             "role": "abbyCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6219,7 +6219,7 @@
         },
         {
             "role": "abbyACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6253,7 +6253,7 @@
 
         {
             "role": "cookieA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6269,7 +6269,7 @@
         },
         {
             "role": "cookieB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6285,7 +6285,7 @@
         },
         {
             "role": "cookieC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6301,7 +6301,7 @@
         },
         {
             "role": "cookieD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6317,7 +6317,7 @@
         },
         {
             "role": "cookieE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6333,7 +6333,7 @@
         },
         {
             "role": "cookieAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6349,7 +6349,7 @@
         },
         {
             "role": "cookieAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6365,7 +6365,7 @@
         },
         {
             "role": "cookieAD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6381,7 +6381,7 @@
         },
         {
             "role": "cookieBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6397,7 +6397,7 @@
         },
         {
             "role": "cookieBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6413,7 +6413,7 @@
         },
         {
             "role": "cookieBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6429,7 +6429,7 @@
         },
         {
             "role": "cookieCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6445,7 +6445,7 @@
         },
         {
             "role": "cookieABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6461,7 +6461,7 @@
         },
         {
             "role": "cookieABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6477,7 +6477,7 @@
         },
         {
             "role": "cookieACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6493,7 +6493,7 @@
         },
         {
             "role": "cookieBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6509,7 +6509,7 @@
         },
         {
             "role": "cookieBDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6525,7 +6525,7 @@
         },
         {
             "role": "cookieABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6549,7 +6549,7 @@
  
         {
             "role": "cookieF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6567,7 +6567,7 @@
  
         {
             "role": "cookieAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6583,7 +6583,7 @@
         },
         {
             "role": "cookieBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6599,7 +6599,7 @@
         },
         {
             "role": "cookieCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6615,7 +6615,7 @@
         },
         {
             "role": "cookieDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6631,7 +6631,7 @@
         },
         {
             "role": "cookieEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6647,7 +6647,7 @@
         },
         {
             "role": "cookieABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6663,7 +6663,7 @@
         },
         {
             "role": "cookieACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6679,7 +6679,7 @@
         },
         {
             "role": "cookieADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6695,7 +6695,7 @@
         },
         {
             "role": "cookieBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6711,7 +6711,7 @@
         },
         {
             "role": "cookieBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6727,7 +6727,7 @@
         },
 {
             "role": "cookieDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6743,7 +6743,7 @@
         },
         {
             "role": "cookieBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6759,7 +6759,7 @@
         },
         {
             "role": "cookieCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6775,7 +6775,7 @@
         },
 {
             "role": "cookieDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6791,7 +6791,7 @@
         },
         {
             "role": "cookieABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6807,7 +6807,7 @@
         },
         {
             "role": "cookieABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6823,7 +6823,7 @@
         },
         {
             "role": "cookieACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6839,7 +6839,7 @@
         },
         {
             "role": "cookieBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6855,7 +6855,7 @@
         },
         {
             "role": "cookieBDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6871,7 +6871,7 @@
         },
         {
             "role": "cookieABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -6889,7 +6889,7 @@
  
        {
             "role": "elmoA",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -6932,7 +6932,7 @@
         },
                {
             "role": "elmoB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -6975,7 +6975,7 @@
         },
        {
             "role": "elmoC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7018,7 +7018,7 @@
         },
        {
             "role": "elmoE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7061,7 +7061,7 @@
         },
        {
             "role": "elmoF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7104,7 +7104,7 @@
         },
        {
             "role": "elmoAB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7147,7 +7147,7 @@
         },
        {
             "role": "elmoBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7190,7 +7190,7 @@
         },
        {
             "role": "elmoBE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7233,7 +7233,7 @@
         },
        {
             "role": "elmoBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7276,7 +7276,7 @@
         },
        {
             "role": "elmoABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7319,7 +7319,7 @@
         },
        {
             "role": "elmoAC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7362,7 +7362,7 @@
         },
        {
             "role": "elmoAF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7405,7 +7405,7 @@
         },
        {
             "role": "elmoCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7448,7 +7448,7 @@
         },
        {
             "role": "elmoEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7491,7 +7491,7 @@
         },
        {
             "role": "elmoABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7534,7 +7534,7 @@
         },
        {
             "role": "elmoACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7577,7 +7577,7 @@
         },
        {
             "role": "elmoBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7620,7 +7620,7 @@
         },
        {
             "role": "elmoABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7663,7 +7663,7 @@
         },
        {
             "role": "elmoBEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "world",
@@ -7706,7 +7706,7 @@
         },
       {
             "role": "countB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7748,7 +7748,7 @@
 
  {
             "role": "countDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7789,7 +7789,7 @@
         },
  {
             "role": "countBF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7830,7 +7830,7 @@
         },
      {
             "role": "countC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7871,7 +7871,7 @@
         },
      {
             "role": "countD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7912,7 +7912,7 @@
         },
      {
             "role": "countF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7953,7 +7953,7 @@
         },
 {
             "role": "countBDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -7994,7 +7994,7 @@
         },
      {
             "role": "countBC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8035,7 +8035,7 @@
         },
      {
             "role": "countBD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8076,7 +8076,7 @@
         },
      {
             "role": "countCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8117,7 +8117,7 @@
         },
      {
             "role": "countCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8158,7 +8158,7 @@
         },
      {
             "role": "countBCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8199,7 +8199,7 @@
         },
      {
             "role": "countBCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8240,7 +8240,7 @@
         },
      {
             "role": "countCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8281,7 +8281,7 @@
         },
      {
             "role": "countBCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8323,7 +8323,7 @@
 
         {
             "role": "grouch1B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8339,7 +8339,7 @@
         },
         {
             "role": "grouch1D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8356,7 +8356,7 @@
         
       {
             "role": "grouch1BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8372,7 +8372,7 @@
         },
         {
             "role": "grouch1F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8389,7 +8389,7 @@
  
         {
             "role": "grouch1BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8406,7 +8406,7 @@
  
         {
             "role": "grouch1DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8422,7 +8422,7 @@
         },
          {
             "role": "grouch1BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8439,7 +8439,7 @@
                 
     {
             "role": "grouch1DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "out",
@@ -8458,7 +8458,7 @@
   
       {
             "role": "grouch2B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8504,7 +8504,7 @@
         },
      {
             "role": "grouch2D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8550,7 +8550,7 @@
         },
      {
             "role": "grouch2F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8596,7 +8596,7 @@
         },
      {
             "role": "grouch2BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8642,7 +8642,7 @@
         },
      {
             "role": "grouch2BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8688,7 +8688,7 @@
         },
       {
             "role": "grouch2BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8734,7 +8734,7 @@
         },
       {
             "role": "grouch2DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "help": "villy form 3",
             "hide": true,
             "side": "out",
@@ -8781,7 +8781,7 @@
 
  {
             "role": "big bird2A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8797,7 +8797,7 @@
         },
         {
             "role": "big bird2B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8813,7 +8813,7 @@
         },
         {
             "role": "big bird2C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8829,7 +8829,7 @@
         },
         {
             "role": "big bird2D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8845,7 +8845,7 @@
         },
         {
             "role": "big bird2E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8861,7 +8861,7 @@
         },
         {
             "role": "big bird2AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8877,7 +8877,7 @@
         },
         {
             "role": "big bird2AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8893,7 +8893,7 @@
         },
         {
             "role": "big bird2AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8909,7 +8909,7 @@
         },
         {
             "role": "big bird2BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8925,7 +8925,7 @@
         },
         {
             "role": "big bird2BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8941,7 +8941,7 @@
         },
         {
             "role": "big bird2BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8957,7 +8957,7 @@
         },
         {
             "role": "big bird2CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8973,7 +8973,7 @@
         },
         {
             "role": "big bird2ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -8989,7 +8989,7 @@
         },
         {
             "role": "big bird2ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9005,7 +9005,7 @@
         },
         {
             "role": "big bird2ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9021,7 +9021,7 @@
         },
         {
             "role": "big bird2BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9037,7 +9037,7 @@
         },
         {
             "role": "big bird2BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9053,7 +9053,7 @@
         },
         {
             "role": "big bird2ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9069,7 +9069,7 @@
         }, 
         {
             "role": "big bird2F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9085,7 +9085,7 @@
         }, 
         {
             "role": "big bird2AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9101,7 +9101,7 @@
         },
         {
             "role": "big bird2BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9117,7 +9117,7 @@
         },
         {
             "role": "big bird2CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9133,7 +9133,7 @@
         },
         {
             "role": "big bird2DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9149,7 +9149,7 @@
         },
         {
             "role": "big bird2EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9165,7 +9165,7 @@
         },
         {
             "role": "big bird2ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9181,7 +9181,7 @@
         },
         {
             "role": "big bird2ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9197,7 +9197,7 @@
         },
         {
             "role": "big bird2ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9213,7 +9213,7 @@
         },
         {
             "role": "big bird2BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9229,7 +9229,7 @@
         },
         {
             "role": "big bird2BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9245,7 +9245,7 @@
         },
         {
             "role": "big bird2BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9261,7 +9261,7 @@
         },
         {
             "role": "big bird2CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9277,7 +9277,7 @@
         },
 {
             "role": "big bird2DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9293,7 +9293,7 @@
         },
         {
             "role": "big bird2ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9309,7 +9309,7 @@
         },
         {
             "role": "big bird2ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9325,7 +9325,7 @@
         },
         {
             "role": "big bird2ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9341,7 +9341,7 @@
         },
         {
             "role": "big bird2BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9357,7 +9357,7 @@
         },
         {
             "role": "big bird2BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9373,7 +9373,7 @@
         },
         {
             "role": "big bird2ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9392,7 +9392,7 @@
 
  {
             "role": "big bird3A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9408,7 +9408,7 @@
         },
         {
             "role": "big bird3B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9424,7 +9424,7 @@
         },
         {
             "role": "big bird3C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9440,7 +9440,7 @@
         },
         {
             "role": "big bird3D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9456,7 +9456,7 @@
         },
         {
             "role": "big bird3E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9472,7 +9472,7 @@
         },
         {
             "role": "big bird3AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9488,7 +9488,7 @@
         },
         {
             "role": "big bird3AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9504,7 +9504,7 @@
         },
         {
             "role": "big bird3AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9520,7 +9520,7 @@
         },
         {
             "role": "big bird3BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9536,7 +9536,7 @@
         },
         {
             "role": "big bird3BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9552,7 +9552,7 @@
         },
         {
             "role": "big bird3BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9568,7 +9568,7 @@
         },
         {
             "role": "big bird3CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9584,7 +9584,7 @@
         },
         {
             "role": "big bird3ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9600,7 +9600,7 @@
         },
         {
             "role": "big bird3ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9616,7 +9616,7 @@
         },
         {
             "role": "big bird3ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9632,7 +9632,7 @@
         },
         {
             "role": "big bird3BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9648,7 +9648,7 @@
         },
         {
             "role": "big bird3BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9664,7 +9664,7 @@
         },
         {
             "role": "big bird3ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9680,7 +9680,7 @@
         }, 
         {
             "role": "big bird3F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9696,7 +9696,7 @@
         }, 
         {
             "role": "big bird3AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9712,7 +9712,7 @@
         },
         {
             "role": "big bird3BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9728,7 +9728,7 @@
         },
         {
             "role": "big bird3CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9744,7 +9744,7 @@
         },
         {
             "role": "big bird3DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9760,7 +9760,7 @@
         },
         {
             "role": "big bird3EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9776,7 +9776,7 @@
         },
         {
             "role": "big bird3ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9792,7 +9792,7 @@
         },
         {
             "role": "big bird3ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9808,7 +9808,7 @@
         },
         {
             "role": "big bird3ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9824,7 +9824,7 @@
         },
         {
             "role": "big bird3BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9840,7 +9840,7 @@
         },
         {
             "role": "big bird3BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9856,7 +9856,7 @@
         },
         {
             "role": "big bird3BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9872,7 +9872,7 @@
         },
         {
             "role": "big bird3CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9888,7 +9888,7 @@
         },
 {
             "role": "big bird3DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9904,7 +9904,7 @@
         },
         {
             "role": "big bird3ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9920,7 +9920,7 @@
         },
         {
             "role": "big bird3ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9936,7 +9936,7 @@
         },
         {
             "role": "big bird3ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9952,7 +9952,7 @@
         },
         {
             "role": "big bird3BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9968,7 +9968,7 @@
         },
         {
             "role": "big bird3BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -9984,7 +9984,7 @@
         },
         {
             "role": "big bird3ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10001,7 +10001,7 @@
 
         {
             "role": "big bird4A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10017,7 +10017,7 @@
         },
         {
             "role": "big bird4B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10033,7 +10033,7 @@
         },
         {
             "role": "big bird4C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10049,7 +10049,7 @@
         },
         {
             "role": "big bird4D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10065,7 +10065,7 @@
         },
         {
             "role": "big bird4E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10081,7 +10081,7 @@
         },
         {
             "role": "big bird4AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10097,7 +10097,7 @@
         },
         {
             "role": "big bird4AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10113,7 +10113,7 @@
         },
         {
             "role": "big bird4AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10129,7 +10129,7 @@
         },
         {
             "role": "big bird4BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10145,7 +10145,7 @@
         },
         {
             "role": "big bird4BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10161,7 +10161,7 @@
         },
         {
             "role": "big bird4BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10177,7 +10177,7 @@
         },
         {
             "role": "big bird4CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10193,7 +10193,7 @@
         },
         {
             "role": "big bird4ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10209,7 +10209,7 @@
         },
         {
             "role": "big bird4ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10225,7 +10225,7 @@
         },
         {
             "role": "big bird4ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10241,7 +10241,7 @@
         },
         {
             "role": "big bird4BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10257,7 +10257,7 @@
         },
         {
             "role": "big bird4BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10273,7 +10273,7 @@
         },
         {
             "role": "big bird4ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10289,7 +10289,7 @@
         }, 
         {
             "role": "big bird4F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10305,7 +10305,7 @@
         }, 
         {
             "role": "big bird4AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10321,7 +10321,7 @@
         },
         {
             "role": "big bird4BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10337,7 +10337,7 @@
         },
         {
             "role": "big bird4CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10353,7 +10353,7 @@
         },
         {
             "role": "big bird4DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10369,7 +10369,7 @@
         },
         {
             "role": "big bird4EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10385,7 +10385,7 @@
         },
         {
             "role": "big bird4ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10401,7 +10401,7 @@
         },
         {
             "role": "big bird4ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10417,7 +10417,7 @@
         },
         {
             "role": "big bird4ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10433,7 +10433,7 @@
         },
         {
             "role": "big bird4BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10449,7 +10449,7 @@
         },
         {
             "role": "big bird4BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10465,7 +10465,7 @@
         },
         {
             "role": "big bird4BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10481,7 +10481,7 @@
         },
         {
             "role": "big bird4CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10497,7 +10497,7 @@
         },
 {
             "role": "big bird4DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10513,7 +10513,7 @@
         },
         {
             "role": "big bird4ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10529,7 +10529,7 @@
         },
         {
             "role": "big bird4ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10545,7 +10545,7 @@
         },
         {
             "role": "big bird4ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10561,7 +10561,7 @@
         },
         {
             "role": "big bird4BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10577,7 +10577,7 @@
         },
         {
             "role": "big bird4BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10593,7 +10593,7 @@
         },
         {
             "role": "big bird4ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10612,7 +10612,7 @@
 
         {
             "role": "big bird5A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10628,7 +10628,7 @@
         },
         {
             "role": "big bird5B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10644,7 +10644,7 @@
         },
         {
             "role": "big bird5C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10660,7 +10660,7 @@
         },
         {
             "role": "big bird5D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10676,7 +10676,7 @@
         },
         {
             "role": "big bird5E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10692,7 +10692,7 @@
         },
         {
             "role": "big bird5AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10708,7 +10708,7 @@
         },
         {
             "role": "big bird5AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10724,7 +10724,7 @@
         },
         {
             "role": "big bird5AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10740,7 +10740,7 @@
         },
         {
             "role": "big bird5BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10756,7 +10756,7 @@
         },
         {
             "role": "big bird5BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10772,7 +10772,7 @@
         },
         {
             "role": "big bird5BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10788,7 +10788,7 @@
         },
         {
             "role": "big bird5CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10804,7 +10804,7 @@
         },
         {
             "role": "big bird5ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10820,7 +10820,7 @@
         },
         {
             "role": "big bird5ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10836,7 +10836,7 @@
         },
         {
             "role": "big bird5ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10852,7 +10852,7 @@
         },
         {
             "role": "big bird5BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10868,7 +10868,7 @@
         },
         {
             "role": "big bird5BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10884,7 +10884,7 @@
         },
         {
             "role": "big bird5ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10900,7 +10900,7 @@
         }, 
         {
             "role": "big bird5F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10916,7 +10916,7 @@
         }, 
         {
             "role": "big bird5AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10932,7 +10932,7 @@
         },
         {
             "role": "big bird5BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10948,7 +10948,7 @@
         },
         {
             "role": "big bird5CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10964,7 +10964,7 @@
         },
         {
             "role": "big bird5DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10980,7 +10980,7 @@
         },
         {
             "role": "big bird5EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -10996,7 +10996,7 @@
         },
         {
             "role": "big bird5ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11012,7 +11012,7 @@
         },
         {
             "role": "big bird5ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11028,7 +11028,7 @@
         },
         {
             "role": "big bird5ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11044,7 +11044,7 @@
         },
         {
             "role": "big bird5BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11060,7 +11060,7 @@
         },
         {
             "role": "big bird5BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11076,7 +11076,7 @@
         },
         {
             "role": "big bird5BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11092,7 +11092,7 @@
         },
         {
             "role": "big bird5CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11108,7 +11108,7 @@
         },
 {
             "role": "big bird5DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11124,7 +11124,7 @@
         },
         {
             "role": "big bird5ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11140,7 +11140,7 @@
         },
         {
             "role": "big bird5ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11156,7 +11156,7 @@
         },
         {
             "role": "big bird5ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11172,7 +11172,7 @@
         },
         {
             "role": "big bird5BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11188,7 +11188,7 @@
         },
         {
             "role": "big bird5BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11204,7 +11204,7 @@
         },
         {
             "role": "big bird5ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11220,7 +11220,7 @@
         },
         {
             "role": "big bird6A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11236,7 +11236,7 @@
         },
         {
             "role": "big bird6B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11252,7 +11252,7 @@
         },
         {
             "role": "big bird6C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11268,7 +11268,7 @@
         },
         {
             "role": "big bird6D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11284,7 +11284,7 @@
         },
         {
             "role": "big bird6E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11300,7 +11300,7 @@
         },
         {
             "role": "big bird6AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11316,7 +11316,7 @@
         },
         {
             "role": "big bird6AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11332,7 +11332,7 @@
         },
         {
             "role": "big bird6AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11348,7 +11348,7 @@
         },
         {
             "role": "big bird6BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11364,7 +11364,7 @@
         },
         {
             "role": "big bird6BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11380,7 +11380,7 @@
         },
         {
             "role": "big bird6BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11396,7 +11396,7 @@
         },
         {
             "role": "big bird6CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11412,7 +11412,7 @@
         },
         {
             "role": "big bird6ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11428,7 +11428,7 @@
         },
         {
             "role": "big bird6ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11444,7 +11444,7 @@
         },
         {
             "role": "big bird6ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11460,7 +11460,7 @@
         },
         {
             "role": "big bird6BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11476,7 +11476,7 @@
         },
         {
             "role": "big bird6BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11492,7 +11492,7 @@
         },
         {
             "role": "big bird6ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11508,7 +11508,7 @@
         }, 
         {
             "role": "big bird6F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11524,7 +11524,7 @@
         }, 
         {
             "role": "big bird6AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11540,7 +11540,7 @@
         },
         {
             "role": "big bird6BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11556,7 +11556,7 @@
         },
         {
             "role": "big bird6CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11572,7 +11572,7 @@
         },
         {
             "role": "big bird6DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11588,7 +11588,7 @@
         },
         {
             "role": "big bird6EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11604,7 +11604,7 @@
         },
         {
             "role": "big bird6ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11620,7 +11620,7 @@
         },
         {
             "role": "big bird6ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11636,7 +11636,7 @@
         },
         {
             "role": "big bird6ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11652,7 +11652,7 @@
         },
         {
             "role": "big bird6BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11668,7 +11668,7 @@
         },
         {
             "role": "big bird6BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11684,7 +11684,7 @@
         },
         {
             "role": "big bird6BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11700,7 +11700,7 @@
         },
         {
             "role": "big bird6CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11716,7 +11716,7 @@
         },
 {
             "role": "big birdDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11732,7 +11732,7 @@
         },
 {
             "role": "big bird1DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11748,7 +11748,7 @@
         },
 {
             "role": "big bird2DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11765,7 +11765,7 @@
 
 {
             "role": "big bird7DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11781,7 +11781,7 @@
 },
 {
             "role": "big bird6DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11797,7 +11797,7 @@
 },
 {
             "role": "big bird5DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11813,7 +11813,7 @@
 },
 {
             "role": "big bird4DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11829,7 +11829,7 @@
 },
 {
             "role": "big bird3DE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11845,7 +11845,7 @@
 },
 {
             "role": "big bird6DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11861,7 +11861,7 @@
         },
         {
             "role": "big bird6ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11877,7 +11877,7 @@
         },
         {
             "role": "big bird6ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11893,7 +11893,7 @@
         },
         {
             "role": "big bird6ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11909,7 +11909,7 @@
         },
         {
             "role": "big bird6BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11925,7 +11925,7 @@
         },
         {
             "role": "big bird6BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11941,7 +11941,7 @@
         },
         {
             "role": "big bird6ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11959,7 +11959,7 @@
 
         {
             "role": "big bird7A",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11977,7 +11977,7 @@
 
         {
             "role": "big bird7B",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -11993,7 +11993,7 @@
         },
         {
             "role": "big bird7C",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,                             
             "help": "None needed",
             "side": "village",
@@ -12009,7 +12009,7 @@
         },
         {
             "role": "big bird7D",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12025,7 +12025,7 @@
         },
         {
             "role": "big bird7E",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12041,7 +12041,7 @@
         },
         {
             "role": "big bird7AB",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12057,7 +12057,7 @@
         },
         {
             "role": "big bird7AC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12073,7 +12073,7 @@
         },
         {
             "role": "big bird7AD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12089,7 +12089,7 @@
         },
         {
             "role": "big bird7BC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12105,7 +12105,7 @@
         },
         {
             "role": "big bird7BD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12121,7 +12121,7 @@
         },
         {
             "role": "big bird7BE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12137,7 +12137,7 @@
         },
         {
             "role": "big bird7CD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12153,7 +12153,7 @@
         },
         {
             "role": "big bird7ABC",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12169,7 +12169,7 @@
         },
         {
             "role": "big bird7ABD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12185,7 +12185,7 @@
         },
         {
             "role": "big bird7ACD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12201,7 +12201,7 @@
         },
         {
             "role": "big bird7BCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12217,7 +12217,7 @@
         },
         {
             "role": "big bird7BDE",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12233,7 +12233,7 @@
         },
         {
             "role": "big bird7ABCD",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12249,7 +12249,7 @@
         }, 
         {
             "role": "big bird7F",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12265,7 +12265,7 @@
         }, 
         {
             "role": "big bird7AF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12281,7 +12281,7 @@
         },
         {
             "role": "big bird7BF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12297,7 +12297,7 @@
         },
         {
             "role": "big bird7CF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12313,7 +12313,7 @@
         },
         {
             "role": "big bird7DF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12329,7 +12329,7 @@
         },
         {
             "role": "big bird7EF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12345,7 +12345,7 @@
         },
         {
             "role": "big bird7ABF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12361,7 +12361,7 @@
         },
         {
             "role": "big bird7ACF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12377,7 +12377,7 @@
         },
         {
             "role": "big bird7ADF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12393,7 +12393,7 @@
         },
         {
             "role": "big bird7BCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12409,7 +12409,7 @@
         },
         {
             "role": "big bird7BDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12425,7 +12425,7 @@
         },
         {
             "role": "big bird7BEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12441,7 +12441,7 @@
         },
         {
             "role": "big bird7CDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12457,7 +12457,7 @@
         },
 {
             "role": "big bird7DEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12473,7 +12473,7 @@
         },
         {
             "role": "big bird7ABCF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12489,7 +12489,7 @@
         },
         {
             "role": "big bird7ABDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12505,7 +12505,7 @@
         },
         {
             "role": "big bird7ACDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12521,7 +12521,7 @@
         },
         {
             "role": "big bird7BCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12537,7 +12537,7 @@
         },
         {
             "role": "big bird7BDEF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
@@ -12553,7 +12553,7 @@
         },
         {
             "role": "big bird7ABCDF",
-            “translation”: “Puppet”,
+            "translation": "Puppet",
             "hide": true,
             "help": "None needed",
             "side": "village",
