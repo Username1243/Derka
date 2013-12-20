@@ -36,9 +36,9 @@
         "night": {
             "stalk": {
                 "command": ["stalk", "convert"],
-                "newRole": {"abbyF": ["abby"], "abbyAF": ["abbyA"] , "abbyCF": ["abbyC"], "abbyDF": ["abbyD"], "abbyEF": ["abbyE"], "abbyACF": ["abbyAC"], "abbyADF": ["abbyAD"], "abbyCDF": ["abbyCD"], "abbyDEF": ["abbyDE"],  "abbyACDF": ["abbyACD"], 
+                "newRole": {"abbyF": ["abby", "abby1"], "abbyAF": ["abbyA"] , "abbyCF": ["abbyC"], "abbyDF": ["abbyD"], "abbyEF": ["abbyE"], "abbyACF": ["abbyAC"], "abbyADF": ["abbyAD"], "abbyCDF": ["abbyCD"], "abbyDEF": ["abbyDE"],  "abbyACDF": ["abbyACD"], 
 "rositaF": ["rosita"], "rositaAF": ["rositaA"], "rositaBF": ["rositaB"], "rositaCF": ["rositaC"], "rositaDF": ["rositaD"], "rositaEF": ["rositaE"], "rositaABF": ["rositaAB"], "rositaACF": ["rositaAC"], "rositaADF": ["rositaAD"], "rositaBCF": ["rositaBC"], "rositaBDF": ["rositaBD"], "rositaBEF": ["rositaBE"], "rositaCDF": ["rositaCD"], "rositaDEF": ["rositaDE"], "rositaABCF": ["rositaABC"], "rositaABDF": ["rositaABD"], "rositaACDF": ["rositaACD"], "rositaBCDF": ["rositaBCD"], "rositaBDEF": ["rositaBDE"], "rositaABCDF": ["rositaABCD"],
-"groverF": ["grover"], "groverAF": ["groverA"], "groverBF": ["groverB"], "groverCF": ["groverC"], "groverDF": ["groverD"], "groverEF": ["groverE"], "groverABF": ["groverAB"], "groverACF": ["groverAC"], "groverADF": ["groverAD"], "groverBCF": ["groverBC"], "groverBDF": ["groverBD"], "groverBEF": ["groverBE"], "groverCDF": ["groverCD"], "groverDEF": ["groverDE"], "groverABCF": ["groverABC"], "groverABDF": ["groverABD"], "groverACDF": ["groverACD"], "groverBCDF": ["groverBCD"], "groverBDEF": ["groverBDE"], "groverABCDF": ["groverABCD"],
+"groverF": ["grover", "grover1"], "groverAF": ["groverA"], "groverBF": ["groverB"], "groverCF": ["groverC"], "groverDF": ["groverD"], "groverEF": ["groverE"], "groverABF": ["groverAB"], "groverACF": ["groverAC"], "groverADF": ["groverAD"], "groverBCF": ["groverBC"], "groverBDF": ["groverBD"], "groverBEF": ["groverBE"], "groverCDF": ["groverCD"], "groverDEF": ["groverDE"], "groverABCF": ["groverABC"], "groverABDF": ["groverABD"], "groverACDF": ["groverACD"], "groverBCDF": ["groverBCD"], "groverBDEF": ["groverBDE"], "groverABCDF": ["groverABCD"],
 "zoeF": ["zoe"], "zoeAF": ["zoeA"], "zoeBF": ["zoeB"], "zoeCF": ["zoeC"], "zoeDF": ["zoeD"], "zoeEF": ["zoeE"], "zoeABF": ["zoeAB"], "zoeACF": ["zoeAC"], "zoeADF": ["zoeAD"], "zoeBCF": ["zoeBC"], "zoeBDF": ["zoeBD"], "zoeBEF": ["zoeBE"], "zoeCDF": ["zoeCD"], "zoeDEF": ["zoeDE"], "zoeABCF": ["zoeABC"], "zoeABDF": ["zoeABD"], "zoeACDF": ["zoeACD"], "zoeBCDF": ["zoeBCD"], "zoeBDEF": ["zoeBDE"], "zoeABCDF": ["zoeABCD"],
 "cookieF": ["cookie"], "cookieAF": ["cookieA"], "cookieBF": ["cookieB"], "cookieCF": ["cookieC"], "cookieDF": ["cookieD"], "cookieEF": ["cookieE"], "cookieABF": ["cookieAB"], "cookieACF": ["cookieAC"], "cookieADF": ["cookieAD"], "cookieBCF": ["cookieBC"], "cookieBDF": ["cookieBD"], "cookieBEF": ["cookieBE"], "cookieCDF": ["cookieCD"], "cookieDEF": ["cookieDE"], "cookieABCF": ["cookieABC"], "cookieABDF": ["cookieABD"], "cookieACDF": ["cookieACD"], "cookieBCDF": ["cookieBCD"], "cookieBDEF": ["cookieBDE"], "cookieABCDF": ["cookieABCD"],
 "grouch1F": ["grouch1"],  "grouch1BF": ["grouch1B"], "grouch1DF": ["grouch1D"], "grouch1BDF": ["grouch1BD"],  
@@ -74,9 +74,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -100,7 +100,7 @@
          {
             "role": "puppet",
             "translation": "Puppet",
-            "help": "Insert generic puppet here",
+            "help": "As a puppet living in Sesame Street, you lived your life working hard and trying to make a name for yourself. You vote during the day to clean your streets of scum. In death, you are given a name!",
             "side": "village"
         },
         {
@@ -302,13 +302,13 @@
                         ],
                         "common": "Self",
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         "silentConvert": true,
                         "count": 1,
@@ -358,11 +358,39 @@
                             "distract"
                         ],
                         "common": "Self",
-                        "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                        "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
                         "silentConvert": true,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act.",
                         "silent": true,
+                        "priority": 2,
+                        "target": "AnyButSelf"
+                    }}
+                }
+            },
+{
+            "role": "abby1",
+            "translation": "Abby",
+            "side": "village",
+            "help": "Although you are a fairy, you have limited magical powers. However, that doesn't mean you aren't powerless! Use /distract to turn your targets into pumpkins and render them useless, twice per game!",
+            "info": "Can distract once per night. Sided with 123 Sesame Street. ",
+            "actions": {
+                "onDeath": {
+"convertRoles": {
+"big bird1": "big bird", "big bird1A": "big birdA", "big bird1B":"big birdB", "big bird1F": "big birdF", "big bird1AB": "big birdAB", "big bird1AF": "big birdAF", "big bird1BF": "big birdBF", "big bird1ABF": "big birdABF","big bird2": "big bird1", "big bird2A": "big bird1A", "big bird2B": "big bird1B", "big bird2F": "big bird1F", "big bird2AB": "big bird1AB", "big bird2AF": "big bird1AF", "big bird2BF": "big bird1BF", "big bird2ABF": "big bird1ABF","big bird3": "big bird2", "big bird3A": "big bird2A", "big bird3B":"big bird2B", "big bird3F": "big bird2F", "big bird3AB": "big bird2AB", "big bird3AF": "big bird2AF", "big bird3BF": "big bird2BF", "big bird3ABF": "big bird2ABF","big bird4": "big bird3", "big bird4A": "big bird3A", "big bird4B": "big bird3B", "big bird4F": "big bird3F", "big bird4AB": "big bird3AB", "big bird4AF": "big bird3AF", "big bird4BF": "big bird3BF", "big bird4ABF": "big bird3ABF","big bird5": "big bird4", "big bird5A": "big bird4A", "big bird5B": "big bird4B", "big bird5F": "big bird4F", "big bird5AB": "big bird4AB", "big bird5AF": "big bird4AF", "big bird5BF": "big bird4BF", "big bird5ABF": "big bird4ABF","big bird6": "big bird5", "big bird6A": "big bird5A", "big bird6B": "big bird5B", "big bird6F": "big bird5F", "big bird6AB": "big bird5AB", "big bird6AF": "big bird5AF", "big bird6BF": "big bird5BF", "big bird6ABF": "big bird5ABF","big bird7": "big bird6", "big bird7A": "big bird6A", "big bird7B": "big bird6B", "big bird7F": "big bird6F", "big bird7AB": "big bird6AB", "big bird7AF": "big bird6AF", "big bird7BF": "big bird6BF", "big bird7ABF": "big bird6ABF"}},
+                "night": {
+                    "distract": {
+                        "command": [
+                            "convert",
+                            "distract"
+                        ],
+                        "common": "Self",
+                        "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                        "silentConvert": true,
+                        "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
+                        "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act.",
+                        "silent": true,
+						"charges": 2,
                         "priority": 2,
                         "target": "AnyButSelf"
                     }}
@@ -383,7 +411,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                        "newRole": { "cookieA": ["cookie"], "ernieA": ["ernie"], "groverA": ["grover"], "rositaA": ["rosita"], "abbyA": ["abby"], "zoeA": ["zoe"], "elmoA": ["elmo"], "dorothyA": ["dorothy"], "big birdA": ["big bird"], "big bird1A": ["big bird1"], "big bird2A": ["big bird2"], "big bird3A": ["big bird3"], "big bird4A": ["big bird4"], "big bird5A": ["big bird5"], "big bird6A": ["big bird6"], "big bird7A": ["big bird7"]},
+                        "newRole": { "cookieA": ["cookie"], "ernieA": ["ernie"], "groverA": ["grover", "grover1"], "rositaA": ["rosita"], "abbyA": ["abby", "abby1"], "zoeA": ["zoe"], "elmoA": ["elmo"], "dorothyA": ["dorothy"], "big birdA": ["big bird"], "big bird1A": ["big bird1"], "big bird2A": ["big bird2"], "big bird3A": ["big bird3"], "big bird4A": ["big bird4"], "big bird5A": ["big bird5"], "big bird6A": ["big bird6"], "big bird7A": ["big bird7"]},
                         "silentConvert": true,
                         "distractmsg": "You found yourself surrounded by thrash that was placed by the Grouch wanting to get rid of the smell, you decided to cleanse yourself off the smell.",
                         "teammsg": "The pungent stench of Oscar's trash stopped even you from moving!",
@@ -409,12 +437,12 @@
                             "poison"
                         ],
                         "common": "Self",
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -447,6 +475,26 @@
                 "standby": {
                     "kill": {
                         "target": "AnyButSelf", 
+                        "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
+						"killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
+                    }
+                }
+            }
+        },
+{
+            "role": "grover",
+            "translation": "Grover",
+            "side": "village",
+            "help": "Once a lovable, cute and furry monster, you have always thought you were the most special being alive. You have been told that you have an inflated sense of self-esteem and overestimation, making you look like a megalomaniac. However, they do not realize that you actually have super powers and thus you can /kill a person during the day once per game.",
+            "info": "Can Daykill once per game. Sided with 123 Sesame Street. ",
+            "actions": {
+                "onDeath": {
+"convertRoles": {
+"big bird1": "big bird", "big bird1A": "big birdA", "big bird1B":"big birdB", "big bird1F": "big birdF", "big bird1AB": "big birdAB", "big bird1AF": "big birdAF", "big bird1BF": "big birdBF", "big bird1ABF": "big birdABF","big bird2": "big bird1", "big bird2A": "big bird1A", "big bird2B": "big bird1B", "big bird2F": "big bird1F", "big bird2AB": "big bird1AB", "big bird2AF": "big bird1AF", "big bird2BF": "big bird1BF", "big bird2ABF": "big bird1ABF","big bird3": "big bird2", "big bird3A": "big bird2A", "big bird3B":"big bird2B", "big bird3F": "big bird2F", "big bird3AB": "big bird2AB", "big bird3AF": "big bird2AF", "big bird3BF": "big bird2BF", "big bird3ABF": "big bird2ABF","big bird4": "big bird3", "big bird4A": "big bird3A", "big bird4B": "big bird3B", "big bird4F": "big bird3F", "big bird4AB": "big bird3AB", "big bird4AF": "big bird3AF", "big bird4BF": "big bird3BF", "big bird4ABF": "big bird3ABF","big bird5": "big bird4", "big bird5A": "big bird4A", "big bird5B": "big bird4B", "big bird5F": "big bird4F", "big bird5AB": "big bird4AB", "big bird5AF": "big bird4AF", "big bird5BF": "big bird4BF", "big bird5ABF": "big bird4ABF","big bird6": "big bird5", "big bird6A": "big bird5A", "big bird6B": "big bird5B", "big bird6F": "big bird5F", "big bird6AB": "big bird5AB", "big bird6AF": "big bird5AF", "big bird6BF": "big bird5BF", "big bird6ABF": "big bird5ABF","big bird7": "big bird6", "big bird7A": "big bird6A", "big bird7B": "big bird6B", "big bird7F": "big bird6F", "big bird7AB": "big bird6AB", "big bird7AF": "big bird6AF", "big bird7BF": "big bird6BF", "big bird7ABF": "big bird6ABF"}},
+                "standby": {
+                    "kill": {
+                        "target": "AnyButSelf", 
+						"charges": 1,
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
 						"killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }
@@ -5643,7 +5691,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                        "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                        "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
 						"priority": 2,
@@ -5675,7 +5723,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"], "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"], "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5708,7 +5756,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5741,7 +5789,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5776,7 +5824,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5809,7 +5857,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5842,7 +5890,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5875,7 +5923,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5908,7 +5956,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5941,7 +5989,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -5974,7 +6022,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6007,7 +6055,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6040,7 +6088,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6073,7 +6121,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6106,7 +6154,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6139,7 +6187,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6172,7 +6220,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6205,7 +6253,7 @@
                             "distract"
                         ],
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
 						"target": "AnyButSelf",  "hide": true,
@@ -6240,7 +6288,7 @@
 						"target": "AnyButSelf",  "hide": true,
 						"priority": 2,
                         "common": "Self",
-                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
+                                                "newRole": { "cookieB": ["cookie"], "cookieAB": ["cookieA"], "ernieB": ["ernie"], "ernieAB": ["ernieA"], "groverB": ["grover", "grover1"], "groverAB": ["groverA"], "rositaB": ["rosita"], "rositaAB": ["rositaA"],  "zoeB": ["zoe"], "zoeAB": ["zoeA"], "elmoB": ["elmo"], "elmoAB": ["elmoA"], "dorothyB":["dorothy"], "dorothyAB":["dorothyA"], "big birdB": ["big bird"], "big bird1B": ["big bird1"], "big bird2B": ["big bird2"], "big bird3B": ["big bird3"], "big bird4B": ["big bird4"], "big bird5B": ["big bird5"], "big bird6B": ["big bird6"], "big bird7B": ["big bird7"], "big birdAB": ["big birdA"], "big bird1AB": ["big bird1A"], "big bird2AB": ["big bird2A"], "big bird3AB": ["big bird3A"], "big bird4AB": ["big bird4A"], "big bird5AB": ["big bird5A"], "big bird6AB": ["big bird6A"], "big bird7AB": ["big bird7A"], "grouch1B": ["grouch1"],  "grouch2B": ["grouch2"]},
 
                         "silentConvert": true,
                         "distractmsg": "You have been turned into a pumpkin and rendered helpless by Abby!",
@@ -6907,9 +6955,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -6950,9 +6998,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"],
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -6993,9 +7041,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7036,9 +7084,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7079,9 +7127,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7122,9 +7170,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7165,9 +7213,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7208,9 +7256,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7251,9 +7299,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7294,9 +7342,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7337,9 +7385,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7380,9 +7428,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7423,9 +7471,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7466,9 +7514,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7509,9 +7557,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7552,9 +7600,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7595,9 +7643,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7638,9 +7686,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7681,9 +7729,9 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyD": ["abby"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
+                        "newRole": {"abbyD": ["abby", "abby1"], "abbyAD": ["abbyA"],  "abbyCD": ["abbyC"],  "abbyACD": ["abbyAC"], 
 "cookieD": ["cookie"], "cookieAD": ["cookieA"], "cookieBD": ["cookieB"], "cookieCD": ["cookieC"], "cookieABD": ["cookieAB"], "cookieACD": ["cookieAC"], "cookieBCD": ["cookieBC"], "cookieABCD": ["cookieABC"],
-"groverD": ["grover"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
+"groverD": ["grover", "grover1"], "groverAD": ["groverA"], "groverBD": ["groverB"], "groverCD": ["groverC"], "groverABD": ["groverAB"], "groverACD": ["groverAC"], "groverBCD": ["groverBC"], "groverABCD": ["groverABC"],
 "countD": ["count"], "countBD": ["countB"], "countCD": ["countC"], "countBCD": ["countBC"], 
 "ernieD": ["ernie"], "ernieAD": ["ernieA"], "ernieBD": ["ernieB"], "ernieCD": ["ernieC"], "ernieABD": ["ernieAB"], "ernieACD": ["ernieAC"], "ernieBCD": ["ernieBC"], "ernieABCD": ["ernieABC"],
 "rositaD": ["rosita"], "rositaAD": ["rositaA"], "rositaBD": ["rositaB"], "rositaCD": ["rositaC"], "rositaABD": ["rositaAB"], "rositaACD": ["rositaAC"], "rositaBCD": ["rositaBC"], "rositaABCD": ["rositaABC"],
@@ -7724,13 +7772,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -7766,13 +7814,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -7807,13 +7855,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -7848,13 +7896,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -7889,13 +7937,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -7930,13 +7978,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -7971,13 +8019,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8012,13 +8060,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8053,13 +8101,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8094,13 +8142,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8135,13 +8183,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8176,13 +8224,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8217,13 +8265,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8258,13 +8306,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8299,13 +8347,13 @@
                             "poison"
                         ],
                         "newRole": { "cookieC": ["cookie"], "cookieAC": ["cookieA"], "cookieABC": ["cookieAB"], "cookieBC": ["cookieB"], 
-"groverC": ["grover"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
+"groverC": ["grover", "grover1"], "groverAC": ["groverA"], "groverBC": ["groverB"], "groverABC": ["groverAB"],
 "dorothyC": ["dorothy"], "dorothyAC": ["dorothyA"], "dorothyBC": ["dorothyB"], "dorothyABC": ["dorothyAB"], 
 "elmoC": ["elmo"], "elmoAC": ["elmoA"], "elmoBC": ["elmoB"], "elmoABC": ["elmoAB"],
 "zoeC": ["zoe"], "zoeAC": ["zoeA"], "zoeBC": ["zoeB"], "zoeABC": ["zoeAB"],
 "ernieC": ["ernie"], "ernieAC": ["ernieA"], "ernieBC": ["ernieB"], "ernieABC": ["ernieAB"],
 "rositaC": ["rosita"], "rositaAC": ["rositaA"], "rositaBC": ["rositaB"], "rositaABC": ["rositaAB"],
-"abbyC": ["abby"], "abbyAC": ["abbyA"], 
+"abbyC": ["abby", "abby1"], "abbyAC": ["abbyA"], 
 "big birdC": ["big bird"], "big bird1C": ["big bird1"], "big bird2C": ["big bird2"], "big bird3C": ["big bird3"], "big bird4C": ["big bird4"], "big bird5C": ["big bird5"], "big bird6C": ["big bird6"], "big bird7C": ["big bird7"], "big birdAC": ["big birdA"], "big bird1AC": ["big bird1A"], "big bird2AC": ["big bird2A"], "big bird3AC": ["big bird3A"], "big bird4AC": ["big bird4A"], "big bird5AC": ["big bird5A"], "big bird6AC": ["big bird6A"], "big bird7AC": ["big bird7A"],  "big birdABC": ["big birdAB"], "big bird1ABC": ["big bird1AB"], "big bird2ABC": ["big bird2AB"], "big bird3ABC": ["big bird3AB"], "big bird4ABC": ["big bird4AB"], "big bird5ABC": ["big bird5AB"], "big bird6ABC": ["big bird6AB"], "big bird7ABC": ["big bird7AB"], "big birdBC": ["big birdB"], "big bird1BC": ["big bird1B"], "big bird2BC": ["big bird2B"], "big bird3BC": ["big bird3B"], "big bird4BC": ["big bird4B"], "big bird5BC": ["big bird5B"], "big bird6BC": ["big bird6B"], "big bird7BC": ["big bird7B"]},
                         
                         "silentConvert": true,
@@ -8475,12 +8523,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -8521,12 +8569,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -8567,12 +8615,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -8613,12 +8661,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -8659,12 +8707,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -8705,12 +8753,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
@@ -8751,12 +8799,12 @@
                             "convert",
                             "poison"
                         ],
-                        "newRole": {"abbyE": ["abby"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
+                        "newRole": {"abbyE": ["abby", "abby1"],   "abbyDE": ["abbyD"], "ernieE": ["ernie"], "ernieBE": ["ernieB"],  "ernieDE": ["ernieD"], "ernieBDE": ["ernieBD"],
 "rositaE": ["rosita"], "rositaBE": ["rositaB"],  "rositaDE": ["rositaD"], "rositaBDE": ["rositaBD"],
 "zoeE": ["zoe"], "zoeBE": ["zoeB"],  "zoeDE": ["zoeD"], "zoeBDE": ["zoeBD"],
 "elmoE": ["elmo"], "elmoBE": ["elmoB"], 
 "dorothyE": ["dorothy"], "dorothyBE": ["dorothyB"], 
-"groverE": ["grover"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
+"groverE": ["grover", "grover1"], "groverBE": ["groverB"],  "groverDE": ["groverD"], "groverBDE": ["groverBD"],
 "cookieE": ["cookie"], "cookieBE": ["cookieB"],  "cookieDE": ["cookieD"], "cookieBDE": ["cookieBD"],
 "big bird1E": ["big bird1"], "big bird1BE": ["big bird1B"],  "big bird1DE": ["big bird1D"], "big bird1BDE": ["big bird1BD"],
 "big birdE": ["big bird"], "big birdBE": ["big birdB"],  "big birdDE": ["big birdD"], "big birdBDE": ["big birdBD"],
