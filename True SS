@@ -4,7 +4,7 @@
     "killmsg": "±Jerry Nelson: SSPD found the battered remains of ~Player~, {~Role~} scattered across Sesame Street!",
 "lynchmsg": "±Jerry Nelson: 'Dear ~Player~, you have been found guilty of being  ~Role~, and you are now sentenced to death by Electric Chair!'",
 "drawmsg": "±Jerry Nelson: Sesame Street became vacant. A veritable ghost town. A shell of it's former glory. May the remains of the inhabitants rest in peace.",
-    "author": ["Roild", "Meloetta"],
+    "author": ["Roild", "Meloetta"],"delayPoisonDeath": true,
     "sides": [
         {
             "side": "village",
