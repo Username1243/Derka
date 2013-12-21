@@ -482,7 +482,7 @@
             }
         },
 {
-            "role": "grover",
+            "role": "grover1",
             "translation": "Grover",
             "side": "village",
             "help": "Once a lovable, cute and furry monster, you have always thought you were the most special being alive. You have been told that you have an inflated sense of self-esteem and overestimation, making you look like a megalomaniac. However, they do not realize that you actually have super powers and thus you can /kill a person during the day once per game.",
@@ -4818,7 +4818,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4840,7 +4840,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",  
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4862,7 +4862,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",  
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4884,7 +4884,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",  
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4906,7 +4906,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",  
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4928,7 +4928,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",  
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4950,7 +4950,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",  
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4972,7 +4972,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -4994,7 +4994,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5016,7 +5016,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5038,7 +5038,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5060,7 +5060,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5082,7 +5082,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5104,7 +5104,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5126,7 +5126,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5148,7 +5148,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5170,7 +5170,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5192,7 +5192,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5214,7 +5214,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5236,7 +5236,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5258,7 +5258,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5280,7 +5280,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5302,7 +5302,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5324,7 +5324,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5346,7 +5346,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5368,7 +5368,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5390,7 +5390,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5412,7 +5412,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5434,7 +5434,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5456,7 +5456,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5478,7 +5478,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5500,7 +5500,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5522,7 +5522,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5544,7 +5544,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5566,7 +5566,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5588,7 +5588,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5610,7 +5610,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf", 
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5632,7 +5632,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -5654,7 +5654,7 @@
             "actions": {
                  "standby": {
                     "kill": {
-                        "target": "AnyButSelf",  "hide": true,
+                        "target": "AnyButSelf",
                         "msg": "It's time to prove that you're special. Type /kill to get rid of a person once per game!",
                         "killmsg": "Is it a bird? Is it a plane? It's Super Grover! Super Grover picks up ~Target~ and ascends. He then proceeds to drop his target who gets impaled on a lamp post. However ~Target~ is still breathing. Grover flies at super high speeds down to his target and smashes into him on the ground, crushing his skill taking another victim of the battle. ~Target~, {~Role~} has been eliminated! "
                     }},
@@ -12664,7 +12664,7 @@
 "zoe",
 "grouch1",
 "big bird6",
-"grover"
+"grover1"
 ],
 "roles6": [
 "count",
@@ -12677,7 +12677,7 @@
 "zoe",
 "grouch1",
 "big bird7",
-"grover",
+"grover1",
 "rosita"
 ]
 }
