@@ -296,7 +296,7 @@
             "help": "As the arithmomic vampire of Sesame Street, you can't help but count all the people you've killed in your life. One, hahaha, two, hahaha.... seventy nine, hahaha! Use /kill to continue increasing the number! ",
             "info": "Can Kill. Sided with Outcasts. ",
             "actions": {
-						"actions": "team-reveal-with-roles",
+						"startup": "team-reveal-with-roles",
                 "night": {
                     "kill": {
                         "command": [
@@ -330,7 +330,7 @@
             "help": "Being inquisitive and possessing an active imagination, you share the same thoughts as your owner, Elmo, and wish to possess Sesame Street. Use /kill to drown your target in your fish bowl. As you never leave your fish bowl, you can't be watched (but can be stalked)!",
             "info": "Can kill. Ignores Watch. Sided with Elmo's world.",
             "actions": {
-			"action": "team-reveal-with-roles",
+			"startup": "team-reveal-with-roles",
                 "night": {
                     "kill": {
                         "command": [
@@ -407,7 +407,7 @@
             "help": "You are the compulsive green hoarder who lives in a trash can. Unhappy with the differences within Sesame Street, you have formed an aliance with the Count who shares the same views with you. You can /distract one player per night to prevent them from doing anything using your smelly trash. Once the Count dies, you will be able to /kill!",
             "info": "Can Distract. Sided with Outcasts.",
             "actions": {
-			"actions": "team-reveal-with-roles",
+			"startup": "team-reveal-with-roles",
             "onDeadRoles": {"convertTo": { "grouch2": ["count", "countB",  "countD", "countF", "countBD", "countBF", "countDF", "countBDF"]}},
                 "night": {
                     "distract": {
@@ -431,7 +431,7 @@
             "help": "The Count is dead! Now you can /kill during the night to rid Sesame Street of the real trash.",
             "info": "Ignores Distract. Can Kill. Sided with Outcasts.",
             "actions": {
-						"actions": "team-reveal-with-roles",
+						"startup": "team-reveal-with-roles",
       "distract": {
                     "mode": "ignore",
                     "msg": "You are used to being surrounded by thrash. Having a pungent smell discourages Abby from doing anything to you and you carried on with what you were doing."
