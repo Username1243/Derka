@@ -5,6 +5,8 @@
 "lynchmsg": "±Jerry Nelson: 'Dear ~Player~, you have been found guilty of being  ~Role~, and you are now sentenced to death by Electric Chair!'",
 "drawmsg": "±Jerry Nelson: Sesame Street became vacant. A veritable ghost town. A shell of it's former glory. May the remains of the inhabitants rest in peace.",
     "author": ["Roild", "Meloetta"],"delayPoisonDeath": true,
+	"nonPeak": true,
+	"summary": "Now Sesame Street seems like a childish topic, but this is after the events of the show. Years passed, people grew up and had to get actual jobs. Big Bird became a politician, Cookie Monster has become a respected businessman, Ernie became a Private Detective, Elmo is trying to take over for him and Dorothy, his fish, Count and Grouch have become town pariahs, and more members are here to represent Sesame Street. If you find any problems, PM one of the theme authors!",
     "sides": [
         {
             "side": "village",
@@ -27,7 +29,7 @@
     "role": "ernie",
     "translation": "Ernie",
     "side": "village",
-    "help": "You are the Insomnic being, Ernie. Since you don't sleep well at night, you spend your time observing others instead. People have filed charges to keep you away, but you still find ways to watch what they do at night with /stalk.",
+    "help": "You are the Insomnic being, Ernie. You've since used your sleep deprivation to get a job as a Private Detective, working at night to see what people do. Because of this, you spend your time observing others. Some people have filed charges to keep you away, but you still find ways to watch what they do at night with /stalk.",
     "info": "Can Stalk once per night. Sided with 123 Sesame Street.",
     "actions": {
 "lynch": { "convertRoles": {"big bird1": "big bird", "big bird2": "big bird1", "big bird3": "big bird2", "big bird4": "big bird3", "big bird5": "big bird4", "big bird6": "big bird5", "big bird7": "big bird6"}, "convertmsg": "With another resident of Sesame Street down, Big Bird loses another supporter."},        "onDeath": {
@@ -237,7 +239,7 @@
        {
             "role": "bert",
             "translation": "Bert",
-            "help": "As a slightly autistic member of Sesame Street, you have always been kind, yet easily frustrated. Nothing upsets you more than having to stay up all night because Ernie can't sleep, yet you've found a hobby to keep you occupied. You can /watch a person to see who visits them during the night, but you can't perfectly make out what they went to do!",
+            "help": "As a slightly autistic member of Sesame Street, you have always been kind, yet easily frustrated. You work now as a clerk, using these skills to watch others at night. Nothing upset you more than having to stay up all night because Ernie couldn't sleep, yet you still have to be up all night watching things! You can /watch a person to see who visits them during the night, but you can't perfectly make out what they went to do!",
             "side": "village",
             "info": "Can watch once per night to see who the player visited. Sided with 123 Sesame Street." ,
             "actions": {
@@ -12643,7 +12645,7 @@
 "abby1"
 ],
 "roles3": [
-{"grouch2": 0.1, "count":0.1},
+"count",
 "elmo",
 "dorothy",
 "bert",
