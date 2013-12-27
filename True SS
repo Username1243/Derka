@@ -423,7 +423,7 @@
                         "common": "Self",
                         "newRole": { "cookieA": ["cookie"], "ernieA": ["ernie"], "groverA": ["grover", "grover1"], "rositaA": ["rosita"], "abbyA": ["abby", "abby1"], "zoeA": ["zoe"], "elmoA": ["elmo"], "dorothyA": ["dorothy"], "big birdA": ["big bird"], "big bird1A": ["big bird1"], "big bird2A": ["big bird2"], "big bird3A": ["big bird3"], "big bird4A": ["big bird4"], "big bird5A": ["big bird5"], "big bird6A": ["big bird6"], "big bird7A": ["big bird7"]},
                         "silentConvert": true,
-                        "distractmsg": "You found yourself surrounded by thrash that was placed by the Grouch wanting to get rid of the smell, you decided to cleanse yourself off the smell.",
+                        "distractmsg": "You found yourself surrounded by thrash that was placed by the Grouch wanting to get rid of the smell, you decided to cleanse yourself of the smell.",
                         "teammsg": "The pungent stench of Oscar's trash stopped even you from moving!",
                         "silent": true,
                         "priority": 1,
