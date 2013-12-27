@@ -1,7 +1,7 @@
 {
     "name": "ss",
     "altname": "Sesame Street",
-    "killmsg": "±Jerry Nelson: SSPD found the battered remains of ~Player~, {~Role~} scattered across Sesame Street!",
+    "killmsg": "±Jerry Nelson: SSPD found the battered remains of ~Player~ {~Role~} scattered across Sesame Street.",
 "lynchmsg": "±Jerry Nelson: 'Dear ~Player~, you have been found guilty of being  ~Role~, and you are now sentenced to death by Electric Chair!'",
 "drawmsg": "±Jerry Nelson: Sesame Street became vacant. A veritable ghost town. A shell of its former glory. May the remains of the inhabitants rest in peace.",
     "author": ["Roild", "Meloetta"],"delayPoisonDeath": true,
@@ -21,7 +21,7 @@
     {
 "side": "out",
 "translation": "Outcasts",
-"winmsg": "The Outcasts have destroyed all the dolls in sight (and Dorothy). Only followers of the Outcasts are now allowed on the street. The Streets are now filled with trash and everything is methodically numbered."
+"winmsg": "The Outcasts have destroyed all the dolls in sight (and Dorothy). Only followers of the outcasts are now allowed on the street. The Streets are now filled with trash and everything is methodically numbered."
 }
     ],
     "roles": [
@@ -66,7 +66,7 @@
             "role": "elmo",
             "translation": "Elmo",
             "side": "world",
-            "help": "Known as the 'Little Red Menace' by the citizens of Sesame Street, Elmo believe that the whole world should avoid pronouns and talk using third person. Elmo believe that the world revolves around Elmo and everyone should follow Elmo's examples/behaviour. Along with Elmo's fish, Dorothy, Elmo has decided to claim Sesame Street as Elmo's own. Elmo can get rid of one of Elmo's enemies using /kill once per night. Elmo kills his victims without being followed, but a watcher could still see Elmo and his victim together.",
+            "help": "Known as the 'Little Red Menace' by the citizens of Sesame Street, Elmo believe that the whole world should avoid pronouns and talk using third person. Elmo believe that the world revolves around Elmo and everyone should follow Elmo's examples/behaviour. Along with Elmo's fish, Dorothy, Elmo has decided to claim Sesame Street as Elmo's own. Elmo can get rid of one of Elmo's enemies using /kill once per night. Elmo kills Elmo's victims without being followed, but a watcher could still see Elmo and Elmo's victim together.",
             "info": "Can kill. Ignores Stalk. Sided with Elmo's world.",
             "actions": {
 			"startup": "team-reveal-with-roles",
@@ -239,7 +239,7 @@
        {
             "role": "bert",
             "translation": "Bert",
-            "help": "As a slightly autistic member of Sesame Street, you have always been kind, yet easily frustrated. You work now as a clerk, using these skulls to watch others at night. Nothing upset you more than having to stay up all night because Ernie couldn't sleep, yet you still have to be up all night watching things! You can /watch a person to see who visits them during the night, but you can't perfectly make out what they went to do!",
+            "help": "As a slightly autistic member of Sesame Street, you have always been kind, yet easily frustrated. You work now as a clerk, using these skills to watch others at night. Nothing upsets you more than having to stay up all night because Ernie couldn't sleep, yet you still have to be up all night watching things! You can /watch a person to see who visits them during the night, but you can't perfectly make out what they went to do!",
             "side": "village",
             "info": "Can watch once per night to see who the player visited. Sided with 123 Sesame Street." ,
             "actions": {
@@ -352,7 +352,7 @@
             "translation": "Abby",
             "side": "village",
             "help": "Although you are a fairy, you have limited magical powers. However, that doesn't mean you aren't powerless! Use /distract to turn your targets into pumpkins and render them useless, twice per game!",
-            "info": "Can distract once per night, up to twice per game.. Sided with 123 Sesame Street. ",
+            "info": "Can distract once per night, up to twice per game. Sided with 123 Sesame Street. ",
             "actions": {
 "lynch": { "convertRoles": {"big bird1": "big bird", "big bird2": "big bird1", "big bird3": "big bird2", "big bird4": "big bird3", "big bird5": "big bird4", "big bird6": "big bird5", "big bird7": "big bird6"}, "convertmsg": "With another resident of Sesame Street down, Big Bird loses another supporter."},                "onDeath": {
 "convertRoles": {
@@ -423,7 +423,7 @@
                         "common": "Self",
                         "newRole": { "cookieA": ["cookie"], "ernieA": ["ernie"], "groverA": ["grover", "grover1"], "rositaA": ["rosita"], "abbyA": ["abby", "abby1"], "zoeA": ["zoe"], "elmoA": ["elmo"], "dorothyA": ["dorothy"], "big birdA": ["big bird"], "big bird1A": ["big bird1"], "big bird2A": ["big bird2"], "big bird3A": ["big bird3"], "big bird4A": ["big bird4"], "big bird5A": ["big bird5"], "big bird6A": ["big bird6"], "big bird7A": ["big bird7"]},
                         "silentConvert": true,
-                        "distractmsg": "You found yourself surrounded by thrash that was placed by the Grouch wanting to get rid of the smell, you decided to cleanse yourself of the smell.",
+                        "distractmsg": "You found yourself surrounded by trash that was placed by the Grouch wanting to get rid of the smell, you decided to cleanse yourself of the smell.",
                         "teammsg": "The pungent stench of Oscar's trash stopped even you from moving!",
                         "silent": true,
                         "priority": 1,
@@ -439,7 +439,7 @@
 						"startup": "team-reveal-with-roles",
       "distract": {
                     "mode": "ignore",
-                    "msg": "You are used to being surrounded by thrash. Having a pungent smell discourages Abby from doing anything to you and you carried on with what you were doing."
+                    "msg": "You are used to being surrounded by trash. Having a pungent smell discourages Abby from doing anything to you and you carried on with what you were doing."
                     },
                 "night": {
                     "kill": {
