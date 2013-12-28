@@ -1,5 +1,5 @@
 {
-    "name": "ss",
+    "name": "SS",
     "altname": "Sesame Street",
     "killmsg": "±Jerry Nelson: SSPD found the battered remains of ~Player~ {~Role~} scattered across Sesame Street.",
 "lynchmsg": "±Jerry Nelson: 'Dear ~Player~, you have been found guilty of being  ~Role~, and you are now sentenced to death by Electric Chair!'",
@@ -103,6 +103,7 @@
          {
             "role": "puppet",
             "translation": "Puppet",
+			"hide": true,
             "help": "As a puppet living in Sesame Street, you lived your life working hard and trying to make a name for yourself. You vote during the day to clean your streets of scum. In death, you are given a name!",
             "side": "village"
         },
@@ -350,6 +351,7 @@
         {
             "role": "abby",
             "translation": "Abby",
+			"hide": true,
             "side": "village",
             "help": "Although you are a fairy, you have limited magical powers. However, that doesn't mean you aren't powerless! Use /distract to turn your targets into pumpkins and render them useless, twice per game!",
             "info": "Can distract once per night, up to twice per game. Sided with 123 Sesame Street. ",
@@ -370,7 +372,8 @@
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act.",
                         "silent": true,
                         "priority": 2,
-                        "target": "AnyButSelf"
+                        "target": "AnyButSelf",
+						"hide": true
                     }}
                 }
             },
@@ -432,6 +435,7 @@
              {
             "role": "grouch2",
             "translation": "Oscar the Grouch",
+			"hide": true,
             "side": "out",
             "help": "The Count is dead! Now you can /kill during the night to rid Sesame Street of the real trash.",
             "info": "Ignores Distract. Can Kill. Sided with Outcasts.",
@@ -3970,6 +3974,7 @@
         {
             "role": "bertA",
             "translation": "Puppet",
+			"hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
             "actions": {
