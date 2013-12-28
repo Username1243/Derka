@@ -1,12 +1,12 @@
 {
-    "name": "SS",
+    "name": "ss",
     "altname": "Sesame Street",
     "killmsg": "±Jerry Nelson: SSPD found the battered remains of ~Player~ {~Role~} scattered across Sesame Street.",
 "lynchmsg": "±Jerry Nelson: 'Dear ~Player~, you have been found guilty of being  ~Role~, and you are now sentenced to death by Electric Chair!'",
 "drawmsg": "±Jerry Nelson: Sesame Street became vacant. A veritable ghost town. A shell of its former glory. May the remains of the inhabitants rest in peace.",
     "author": ["Roild", "Meloetta"],"delayPoisonDeath": true,
 	"nonPeak": true,
-	"summary": "Now Sesame Street seems like a childish topic, but this is after the events of the show. Years passed, people grew up and had to get actual jobs. Big Bird became a politician, Cookie Monster has become a respected businessman, Ernie became a Private Detective, Elmo is trying to take over for him and Dorothy, his fish, Count and Grouch have become town pariahs, and more members are here to represent Sesame Street. If you find any problems, PM one of the theme authors!",
+	"summary": "Now Sesame Street seems like a childish topic, but this is after the events of the show. Years passed, people grew up and had to get actual jobs. Big Bird became a politician, Cookie Monster has become a respected businessman, Ernie became a Private Detective, Elmo is trying to take over for him and Dorothy, his fish, Count and Grouch have become town pariahs, and more members are here to represent Sesame Street. If you find any problems, PM one of the theme authors! This theme should not be played until server scripts are updated. Disable if enabled due to nonPeak.",
     "sides": [
         {
             "side": "village",
@@ -103,7 +103,6 @@
          {
             "role": "puppet",
             "translation": "Puppet",
-			"hide": true,
             "help": "As a puppet living in Sesame Street, you lived your life working hard and trying to make a name for yourself. You vote during the day to clean your streets of scum. In death, you are given a name!",
             "side": "village"
         },
@@ -351,7 +350,6 @@
         {
             "role": "abby",
             "translation": "Abby",
-			"hide": true,
             "side": "village",
             "help": "Although you are a fairy, you have limited magical powers. However, that doesn't mean you aren't powerless! Use /distract to turn your targets into pumpkins and render them useless, twice per game!",
             "info": "Can distract once per night, up to twice per game. Sided with 123 Sesame Street. ",
@@ -372,8 +370,7 @@
                         "teammsg": "Your partner was turrned into a pumpkin and rendered helpless by Abby and thus you decided not to act.",
                         "silent": true,
                         "priority": 2,
-                        "target": "AnyButSelf",
-						"hide": true
+                        "target": "AnyButSelf"
                     }}
                 }
             },
@@ -435,7 +432,6 @@
              {
             "role": "grouch2",
             "translation": "Oscar the Grouch",
-			"hide": true,
             "side": "out",
             "help": "The Count is dead! Now you can /kill during the night to rid Sesame Street of the real trash.",
             "info": "Ignores Distract. Can Kill. Sided with Outcasts.",
@@ -3974,7 +3970,6 @@
         {
             "role": "bertA",
             "translation": "Puppet",
-			"hide": true,
             "help": "You have observed your target this night!",
             "side": "village",
             "actions": {
